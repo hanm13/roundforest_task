@@ -1248,3 +1248,67 @@ info: seller-products.route.js [isSellerProductsDeleteManyIsValid] entered {"tim
 info: seller-products.service.js [sellerProductsDeleteManyService] entered {"timestamp":"2023-04-25T19:48:40.945Z"}
 info: seller-products.repository.js [sellerProductsDeleteManyRepository] entered, data: [{"ASIN":"chen12345","Locale":"chen12345"}] {"timestamp":"2023-04-25T19:48:40.946Z"}
 info: seller-products.service.js [sellerProductsDeleteManyService] repositoryRes: {"acknowledged":true,"deletedCount":1} {"timestamp":"2023-04-25T19:48:40.948Z"}
+info: seller-products.route.js [sellerProductsReadAllBySellerNameRoute] entered {"timestamp":"2023-04-25T23:23:38.149Z"}
+info: seller-products.service.js [sellerProductsReadAllBySellerNameService] entered {"timestamp":"2023-04-25T23:23:38.151Z"}
+info: seller-products.repository.js [sellerProductsReadAllBySellerNameRepository] entered, data: {"Seller_name":"chen"} {"timestamp":"2023-04-25T23:23:38.152Z"}
+info: seller-products.repository.js [sellerProductsReadAllBySellerNameRepository] condition: {"Seller_name":"chen"} {"timestamp":"2023-04-25T23:23:38.152Z"}
+info: seller-products.service.js [sellerProductsReadAllBySellerNameService] repositoryRes: [] {"timestamp":"2023-04-25T23:23:38.172Z"}
+info: seller-products.route.js [sellerProductsCreate] entered {"timestamp":"2023-04-25T23:23:42.137Z"}
+info: seller-products.route.js [isSellerProductsCreateUpdateIsValid] entered {"timestamp":"2023-04-25T23:23:42.138Z"}
+info: seller-products.service.js [sellerProductsCreateService] entered {"timestamp":"2023-04-25T23:23:42.139Z"}
+info: seller-products.repository.js [sellerProductsReadRepository] entered, data: {"ASIN":"chen","Locale":"chen","Seller_name":"chen","Availability":true,"Price":0,"Product_name":"chen","Product_link":"chen"} {"timestamp":"2023-04-25T23:23:42.141Z"}
+info: seller-products.repository.js [sellerProductsCreateRepository] entered, data: {"ASIN":"chen","Locale":"chen","Seller_name":"chen","Availability":true,"Price":0,"Product_name":"chen","Product_link":"chen"} {"timestamp":"2023-04-25T23:23:42.149Z"}
+info: seller-products.service.js [sellerProductsCreateService] repositoryRes: {"ASIN":"chen","Locale":"chen","Seller_name":"chen","Availability":true,"Price":0,"Product_name":"chen","Product_link":"chen","_id":"644860fe565c3bc7ad748e40","createdAt":"2023-04-25T23:23:42.159Z","updatedAt":"2023-04-25T23:23:42.159Z","__v":0} {"timestamp":"2023-04-25T23:23:42.165Z"}
+info: seller-products.route.js [sellerProductsReadAllBySellerNameRoute] entered {"timestamp":"2023-04-25T23:23:43.454Z"}
+info: seller-products.service.js [sellerProductsReadAllBySellerNameService] entered {"timestamp":"2023-04-25T23:23:43.454Z"}
+info: seller-products.repository.js [sellerProductsReadAllBySellerNameRepository] entered, data: {"Seller_name":"chen"} {"timestamp":"2023-04-25T23:23:43.455Z"}
+info: seller-products.repository.js [sellerProductsReadAllBySellerNameRepository] condition: {"Seller_name":"chen"} {"timestamp":"2023-04-25T23:23:43.455Z"}
+info: seller-products.service.js [sellerProductsReadAllBySellerNameService] repositoryRes: [{"_id":"644860fe565c3bc7ad748e40","ASIN":"chen","Locale":"chen","Seller_name":"chen","Availability":true,"Price":0,"Product_name":"chen","Product_link":"chen","createdAt":"2023-04-25T23:23:42.159Z","updatedAt":"2023-04-25T23:23:42.159Z","__v":0}] {"timestamp":"2023-04-25T23:23:43.458Z"}
+info: seller-products.route.js [sellerProductsCreate] entered {"timestamp":"2023-04-25T23:23:45.926Z"}
+info: seller-products.route.js [isSellerProductsCreateUpdateIsValid] entered {"timestamp":"2023-04-25T23:23:45.927Z"}
+info: seller-products.service.js [sellerProductsCreateService] entered {"timestamp":"2023-04-25T23:23:45.927Z"}
+info: seller-products.repository.js [sellerProductsReadRepository] entered, data: {"ASIN":"chen1","Locale":"chen1","Seller_name":"chen","Availability":true,"Price":0,"Product_name":"chen","Product_link":"chen"} {"timestamp":"2023-04-25T23:23:45.928Z"}
+info: seller-products.repository.js [sellerProductsCreateRepository] entered, data: {"ASIN":"chen1","Locale":"chen1","Seller_name":"chen","Availability":true,"Price":0,"Product_name":"chen","Product_link":"chen"} {"timestamp":"2023-04-25T23:23:45.931Z"}
+info: seller-products.service.js [sellerProductsCreateService] repositoryRes: {"ASIN":"chen1","Locale":"chen1","Seller_name":"chen","Availability":true,"Price":0,"Product_name":"chen","Product_link":"chen","_id":"64486101565c3bc7ad748e44","createdAt":"2023-04-25T23:23:45.932Z","updatedAt":"2023-04-25T23:23:45.932Z","__v":0} {"timestamp":"2023-04-25T23:23:45.935Z"}
+info: seller-products.route.js [sellerProductsCreate] entered {"timestamp":"2023-04-25T23:23:48.522Z"}
+info: seller-products.route.js [isSellerProductsCreateUpdateIsValid] entered {"timestamp":"2023-04-25T23:23:48.523Z"}
+info: seller-products.service.js [sellerProductsCreateService] entered {"timestamp":"2023-04-25T23:23:48.523Z"}
+info: seller-products.repository.js [sellerProductsReadRepository] entered, data: {"ASIN":"chen12","Locale":"chen12","Seller_name":"chen","Availability":true,"Price":0,"Product_name":"chen","Product_link":"chen"} {"timestamp":"2023-04-25T23:23:48.523Z"}
+info: seller-products.repository.js [sellerProductsCreateRepository] entered, data: {"ASIN":"chen12","Locale":"chen12","Seller_name":"chen","Availability":true,"Price":0,"Product_name":"chen","Product_link":"chen"} {"timestamp":"2023-04-25T23:23:48.526Z"}
+info: seller-products.service.js [sellerProductsCreateService] repositoryRes: {"ASIN":"chen12","Locale":"chen12","Seller_name":"chen","Availability":true,"Price":0,"Product_name":"chen","Product_link":"chen","_id":"64486104565c3bc7ad748e47","createdAt":"2023-04-25T23:23:48.528Z","updatedAt":"2023-04-25T23:23:48.528Z","__v":0} {"timestamp":"2023-04-25T23:23:48.530Z"}
+info: seller-products.route.js [sellerProductsCreate] entered {"timestamp":"2023-04-25T23:23:50.335Z"}
+info: seller-products.route.js [isSellerProductsCreateUpdateIsValid] entered {"timestamp":"2023-04-25T23:23:50.335Z"}
+info: seller-products.service.js [sellerProductsCreateService] entered {"timestamp":"2023-04-25T23:23:50.336Z"}
+info: seller-products.repository.js [sellerProductsReadRepository] entered, data: {"ASIN":"chen123","Locale":"chen123","Seller_name":"chen","Availability":true,"Price":0,"Product_name":"chen","Product_link":"chen"} {"timestamp":"2023-04-25T23:23:50.336Z"}
+info: seller-products.repository.js [sellerProductsCreateRepository] entered, data: {"ASIN":"chen123","Locale":"chen123","Seller_name":"chen","Availability":true,"Price":0,"Product_name":"chen","Product_link":"chen"} {"timestamp":"2023-04-25T23:23:50.338Z"}
+info: seller-products.service.js [sellerProductsCreateService] repositoryRes: {"ASIN":"chen123","Locale":"chen123","Seller_name":"chen","Availability":true,"Price":0,"Product_name":"chen","Product_link":"chen","_id":"64486106565c3bc7ad748e4a","createdAt":"2023-04-25T23:23:50.339Z","updatedAt":"2023-04-25T23:23:50.339Z","__v":0} {"timestamp":"2023-04-25T23:23:50.340Z"}
+info: seller-products.route.js [sellerProductsReadAllBySellerNameRoute] entered {"timestamp":"2023-04-25T23:23:51.233Z"}
+info: seller-products.service.js [sellerProductsReadAllBySellerNameService] entered {"timestamp":"2023-04-25T23:23:51.234Z"}
+info: seller-products.repository.js [sellerProductsReadAllBySellerNameRepository] entered, data: {"Seller_name":"chen"} {"timestamp":"2023-04-25T23:23:51.234Z"}
+info: seller-products.repository.js [sellerProductsReadAllBySellerNameRepository] condition: {"Seller_name":"chen"} {"timestamp":"2023-04-25T23:23:51.234Z"}
+info: seller-products.service.js [sellerProductsReadAllBySellerNameService] repositoryRes: [{"_id":"644860fe565c3bc7ad748e40","ASIN":"chen","Locale":"chen","Seller_name":"chen","Availability":true,"Price":0,"Product_name":"chen","Product_link":"chen","createdAt":"2023-04-25T23:23:42.159Z","updatedAt":"2023-04-25T23:23:42.159Z","__v":0},{"_id":"64486101565c3bc7ad748e44","ASIN":"chen1","Locale":"chen1","Seller_name":"chen","Availability":true,"Price":0,"Product_name":"chen","Product_link":"chen","createdAt":"2023-04-25T23:23:45.932Z","updatedAt":"2023-04-25T23:23:45.932Z","__v":0},{"_id":"64486104565c3bc7ad748e47","ASIN":"chen12","Locale":"chen12","Seller_name":"chen","Availability":true,"Price":0,"Product_name":"chen","Product_link":"chen","createdAt":"2023-04-25T23:23:48.528Z","updatedAt":"2023-04-25T23:23:48.528Z","__v":0},{"_id":"64486106565c3bc7ad748e4a","ASIN":"chen123","Locale":"chen123","Seller_name":"chen","Availability":true,"Price":0,"Product_name":"chen","Product_link":"chen","createdAt":"2023-04-25T23:23:50.339Z","updatedAt":"2023-04-25T23:23:50.339Z","__v":0}] {"timestamp":"2023-04-25T23:23:51.237Z"}
+info: seller-products.route.js [sellerProductsDeleteManyRoute] entered {"timestamp":"2023-04-25T23:23:52.262Z"}
+info: seller-products.route.js [isSellerProductsDeleteManyIsValid] entered {"timestamp":"2023-04-25T23:23:52.263Z"}
+info: seller-products.service.js [sellerProductsDeleteManyService] entered {"timestamp":"2023-04-25T23:23:52.263Z"}
+info: seller-products.repository.js [sellerProductsDeleteManyRepository] entered, data: [{"ASIN":"chen","Locale":"chen"}] {"timestamp":"2023-04-25T23:23:52.263Z"}
+info: seller-products.service.js [sellerProductsDeleteManyService] repositoryRes: {"acknowledged":true,"deletedCount":1} {"timestamp":"2023-04-25T23:23:52.268Z"}
+info: seller-products.route.js [sellerProductsDeleteManyRoute] entered {"timestamp":"2023-04-25T23:23:53.012Z"}
+info: seller-products.route.js [isSellerProductsDeleteManyIsValid] entered {"timestamp":"2023-04-25T23:23:53.013Z"}
+info: seller-products.service.js [sellerProductsDeleteManyService] entered {"timestamp":"2023-04-25T23:23:53.013Z"}
+info: seller-products.repository.js [sellerProductsDeleteManyRepository] entered, data: [{"ASIN":"chen1","Locale":"chen1"}] {"timestamp":"2023-04-25T23:23:53.013Z"}
+info: seller-products.service.js [sellerProductsDeleteManyService] repositoryRes: {"acknowledged":true,"deletedCount":1} {"timestamp":"2023-04-25T23:23:53.015Z"}
+info: seller-products.route.js [sellerProductsDeleteManyRoute] entered {"timestamp":"2023-04-25T23:23:53.374Z"}
+info: seller-products.route.js [isSellerProductsDeleteManyIsValid] entered {"timestamp":"2023-04-25T23:23:53.374Z"}
+info: seller-products.service.js [sellerProductsDeleteManyService] entered {"timestamp":"2023-04-25T23:23:53.375Z"}
+info: seller-products.repository.js [sellerProductsDeleteManyRepository] entered, data: [{"ASIN":"chen12","Locale":"chen12"}] {"timestamp":"2023-04-25T23:23:53.375Z"}
+info: seller-products.service.js [sellerProductsDeleteManyService] repositoryRes: {"acknowledged":true,"deletedCount":1} {"timestamp":"2023-04-25T23:23:53.376Z"}
+info: seller-products.route.js [sellerProductsDeleteManyRoute] entered {"timestamp":"2023-04-25T23:23:53.710Z"}
+info: seller-products.route.js [isSellerProductsDeleteManyIsValid] entered {"timestamp":"2023-04-25T23:23:53.711Z"}
+info: seller-products.service.js [sellerProductsDeleteManyService] entered {"timestamp":"2023-04-25T23:23:53.711Z"}
+info: seller-products.repository.js [sellerProductsDeleteManyRepository] entered, data: [{"ASIN":"chen123","Locale":"chen123"}] {"timestamp":"2023-04-25T23:23:53.711Z"}
+info: seller-products.service.js [sellerProductsDeleteManyService] repositoryRes: {"acknowledged":true,"deletedCount":1} {"timestamp":"2023-04-25T23:23:53.713Z"}
+info: seller-products.route.js [sellerProductsReadAllBySellerNameRoute] entered {"timestamp":"2023-04-25T23:23:54.256Z"}
+info: seller-products.service.js [sellerProductsReadAllBySellerNameService] entered {"timestamp":"2023-04-25T23:23:54.256Z"}
+info: seller-products.repository.js [sellerProductsReadAllBySellerNameRepository] entered, data: {"Seller_name":"chen"} {"timestamp":"2023-04-25T23:23:54.257Z"}
+info: seller-products.repository.js [sellerProductsReadAllBySellerNameRepository] condition: {"Seller_name":"chen"} {"timestamp":"2023-04-25T23:23:54.257Z"}
+info: seller-products.service.js [sellerProductsReadAllBySellerNameService] repositoryRes: [] {"timestamp":"2023-04-25T23:23:54.259Z"}

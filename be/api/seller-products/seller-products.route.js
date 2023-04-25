@@ -196,12 +196,9 @@ async function sellerProductsDeleteManyRoute(req, res) {
 const isSellerProductsDeleteManyIsValid = (data)=>{
   logger.info(`${basename(__filename)} [isSellerProductsDeleteManyIsValid] entered`);
 
-  //TODO: Add validation for types
-
   try{
     if(!data){return false;}
     if(!data.length){return false;}
-
 
     const requiredFields = [ "ASIN","Locale"];
     const invalidObjectsForDelete = [];
@@ -209,12 +206,20 @@ const isSellerProductsDeleteManyIsValid = (data)=>{
     for (let index = 0; index < data.length; index++) {
       const itemForDelete = data[index];
       const itemIsInvalid = false;
+
       for (let index = 0; index < requiredFields.length; index++) {
         const requiredFieldKey = requiredFields[index];
         if(!itemForDelete[requiredFieldKey]){
           itemIsInvalid = true;
         }
       }
+
+      if(typeof itemForDelete.ASIN != "string" && typeof itemForDelete.Locale != "string" ){
+        if(itemIsInvalid){
+          invalidObjectsForDelete.push(itemForDelete);
+        }
+      }
+
       if(itemIsInvalid){
         invalidObjectsForDelete.push(itemForDelete);
       }

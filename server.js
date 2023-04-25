@@ -121,7 +121,6 @@ app
 this function is for microservice health check used by docker
 */
 function onHealthCheck(req, res, next) {
- //TODO
  // checks if the system is healthy, like the db connection is live
  // resolves, if health, rejects if not
  if (req.originalUrl === '/health') {
