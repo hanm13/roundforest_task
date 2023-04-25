@@ -23,20 +23,12 @@ export const HeaderStyle = styled.div`
   font-family: 'Open Sans Condensed', sans-serif;
   position: fixed;
   height: 50px;
-  background-color: rgba(0,0,0, 0.8);
   color: white;
-  border-bottom: 2px solid white;
   
   @media screen and (max-width: 1024px) {
     justify-content: center;
   }
 
-  .head-logo{
-    width: 260px;
-    margin-left: 10px;
-    margin-right: 10px;
-    float: left;
-  }
 `;
 
 export default Header;

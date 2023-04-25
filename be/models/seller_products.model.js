@@ -3,11 +3,9 @@ module.exports = mongoose => {
       "seller_products",
       mongoose.Schema(
         {
-          title: String,
-          description: String,
-          published: Boolean,
           ASIN: String,
           Locale: String,
+          Seller_name: String,
           Availability: Boolean,
           Price: Number,
           Product_name: String,

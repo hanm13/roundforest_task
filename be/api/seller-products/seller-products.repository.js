@@ -9,7 +9,7 @@ const Product = db.seller_products;
 async function sellerProductsCreateRepository(req, data){
 
   try{
-    logger.info(`${basename(__filename)} [sellerProductsCreateRepository] entered`);
+    logger.info(`${basename(__filename)} [sellerProductsCreateRepository] entered, data: ${JSON.stringify(data)}`);
 
 
       // Create a Tutorial
@@ -35,7 +35,7 @@ async function sellerProductsCreateRepository(req, data){
 async function sellerProductsReadRepository(req, data){
 
   try{
-    logger.info(`${basename(__filename)} [sellerProductsReadRepository] entered`);
+    logger.info(`${basename(__filename)} [sellerProductsReadRepository] entered, data: ${JSON.stringify(data)}`);
 
       const condition = {
         ASIN: { $regex: new RegExp(data.ASIN), $options: "i" },
@@ -58,4 +58,80 @@ async function sellerProductsReadRepository(req, data){
 
 }
 
-module.exports = { sellerProductsCreateRepository, sellerProductsReadRepository };
+
+async function sellerProductsUpdateRepository(req, data){
+
+  try{
+    logger.info(`${basename(__filename)} [sellerProductsUpdateRepository] entered, data: ${JSON.stringify(data)}`);
+
+      const condition = {
+        ASIN: { $regex: new RegExp(data.ASIN), $options: "i" },
+        Locale: { $regex: new RegExp(data.Locale), $options: "i" }
+      };
+
+      try{
+        const product = await Product.updateOne(condition, data);
+        return product;
+
+      }catch(err){
+        logger.error(err.message || "Some error occurred while searching the Product.")
+        return false;
+      }
+
+  }catch (e) {
+    logger.error(`${basename(__filename)} [sellerProductsUpdateRepository] error: ${JSON.stringify(e.message || e, null, 2)}`);
+    throw e;
+  }
+
+}
+
+async function sellerProductsDeleteManyRepository(req, data){
+
+  try{
+    logger.info(`${basename(__filename)} [sellerProductsDeleteManyRepository] entered, data: ${JSON.stringify(data)}`);
+
+      try{
+        const product = await Product.deleteMany({$or:[...data]});
+        return product;
+
+      }catch(err){
+        logger.error(err.message || "Some error occurred while deleting the Product.")
+        return false;
+      }
+
+  }catch (e) {
+    logger.error(`${basename(__filename)} [sellerProductsDeleteManyRepository] error: ${JSON.stringify(e.message || e, null, 2)}`);
+    throw e;
+  }
+
+}
+
+
+async function sellerProductsReadAllBySellerNameRepository(req, data){
+
+  try{
+    logger.info(`${basename(__filename)} [sellerProductsReadAllBySellerNameRepository] entered, data: ${JSON.stringify(data)}`);
+
+      const condition = {
+        Seller_name: data.Seller_name,
+      };
+      logger.info(`${basename(__filename)} [sellerProductsReadAllBySellerNameRepository] condition: ${JSON.stringify(condition)}`);
+
+      try{
+        const products = await Product.find(condition);
+        return products;
+
+      }catch(err){
+        logger.error(err.message || "Some error occurred while searching the Product.")
+        return false;
+      }
+
+  }catch (e) {
+    logger.error(`${basename(__filename)} [sellerProductsReadAllBySellerNameRepository] error: ${JSON.stringify(e.message || e, null, 2)}`);
+    throw e;
+  }
+
+}
+
+
+module.exports = { sellerProductsCreateRepository, sellerProductsReadRepository, sellerProductsUpdateRepository, sellerProductsDeleteManyRepository, sellerProductsReadAllBySellerNameRepository };
