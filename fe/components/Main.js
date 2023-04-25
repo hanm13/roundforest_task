@@ -5,6 +5,12 @@ import {useDispatch, useSelector} from 'react-redux';
 import { useTranslation } from "react-i18next";
 import dynamic from 'next/dynamic';
 import FormComponent from "./FormComponent";
+import SellerChange from "./SellerChange";
+
+const ProductListComponent = dynamic(
+  () => import('./ProductListComponent'),
+  { ssr: false }
+);
 
 //We load the text is non SSR componenet so we do not have difference between serverside/client side languages(react hydration error)
 const Text = dynamic(
@@ -18,9 +24,14 @@ const Main = props => {
 
   return (
     <MainStyle>
-      <>
-      <FormComponent/>
-      </>
+      <h1 className="title">Sellers Platform</h1>
+      <div className="products-main-container">
+        <SellerChange/>
+        <div className="products-container">
+          <FormComponent/>
+          <ProductListComponent/>
+        </div>
+      </div>
    </MainStyle>
   );
 };
@@ -45,6 +56,22 @@ export const MainStyle = styled.div`
     height: 100%;
     font: normal 15px tahoma,helvetica,arial,sans-serif;
     position: relative;
+  }
+
+  .title{
+    text-align: center;
+  }
+
+  .products-main-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+
+  .products-container{
+    display: flex;
+    flex-direction: row;
   }
 `;
 export default Main;

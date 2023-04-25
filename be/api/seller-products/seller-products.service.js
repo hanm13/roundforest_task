@@ -31,7 +31,7 @@ async function sellerProductsCreateService(req){
     const checkItemIsExists = await sellerProductsReadRepository(req, data);
     if(checkItemIsExists){
       logger.warn(`${basename(__filename)} [sellerProductsCreateService] product(${data.ASIN}) already exists, skipping this one.`);
-      return false;
+      return {alreadyCreated: true};
     }
 
     //

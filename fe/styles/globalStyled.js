@@ -12,7 +12,6 @@ const GlobalStyle = createGlobalStyle`
     font-kerning: none;
 
     background-repeat: no-repeat;
-    color: white;
     background-attachment: fixed;
     font: normal 18px tahoma,helvetica,arial,sans-serif;
     background-size: 100% 100%;

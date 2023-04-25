@@ -556,3 +556,695 @@ info: seller-products.repository.js [sellerProductsReadAllBySellerNameRepository
 info: seller-products.service.js [sellerProductsReadAllBySellerNameService] repositoryRes: [] {"timestamp":"2023-04-25T13:35:07.629Z"}
 error: uncaughtException, reason: ReferenceError: TextField is not defined {"timestamp":"2023-04-25T15:44:37.982Z"}
 error: uncaughtException, reason: ReferenceError: TextField is not defined {"timestamp":"2023-04-25T15:44:38.019Z"}
+info: seller-products.route.js [sellerProductsCreate] entered {"timestamp":"2023-04-25T17:08:21.849Z"}
+info: seller-products.route.js [isSellerProductsCreateUpdateIsValid] entered {"timestamp":"2023-04-25T17:08:21.853Z"}
+error: seller-products.route.js [isSellerProductsCreateUpdateIsValid] missing fields: ASIN,Locale,Seller_name,Availability,Price,Product_name,Product_link {"timestamp":"2023-04-25T17:08:21.854Z"}
+info: seller-products.route.js [sellerProductsCreate] entered {"timestamp":"2023-04-25T17:10:18.991Z"}
+info: seller-products.route.js [isSellerProductsCreateUpdateIsValid] entered {"timestamp":"2023-04-25T17:10:18.993Z"}
+error: seller-products.route.js [isSellerProductsCreateUpdateIsValid] missing fields: Availability {"timestamp":"2023-04-25T17:10:18.993Z"}
+info: seller-products.route.js [sellerProductsCreate] entered {"timestamp":"2023-04-25T17:10:19.517Z"}
+info: seller-products.route.js [isSellerProductsCreateUpdateIsValid] entered {"timestamp":"2023-04-25T17:10:19.518Z"}
+error: seller-products.route.js [isSellerProductsCreateUpdateIsValid] missing fields: Availability {"timestamp":"2023-04-25T17:10:19.519Z"}
+info: seller-products.route.js [sellerProductsCreate] entered {"timestamp":"2023-04-25T17:10:19.661Z"}
+info: seller-products.route.js [isSellerProductsCreateUpdateIsValid] entered {"timestamp":"2023-04-25T17:10:19.662Z"}
+error: seller-products.route.js [isSellerProductsCreateUpdateIsValid] missing fields: Availability {"timestamp":"2023-04-25T17:10:19.662Z"}
+info: seller-products.route.js [sellerProductsCreate] entered {"timestamp":"2023-04-25T17:10:19.798Z"}
+info: seller-products.route.js [isSellerProductsCreateUpdateIsValid] entered {"timestamp":"2023-04-25T17:10:19.799Z"}
+error: seller-products.route.js [isSellerProductsCreateUpdateIsValid] missing fields: Availability {"timestamp":"2023-04-25T17:10:19.799Z"}
+info: seller-products.route.js [sellerProductsCreate] entered {"timestamp":"2023-04-25T17:11:37.056Z"}
+info: seller-products.route.js [isSellerProductsCreateUpdateIsValid] entered {"timestamp":"2023-04-25T17:11:37.056Z"}
+error: seller-products.route.js [isSellerProductsCreateUpdateIsValid] missing fields: Availability {"timestamp":"2023-04-25T17:11:37.057Z"}
+info: seller-products.route.js [sellerProductsCreate] entered {"timestamp":"2023-04-25T17:11:37.495Z"}
+info: seller-products.route.js [isSellerProductsCreateUpdateIsValid] entered {"timestamp":"2023-04-25T17:11:37.495Z"}
+error: seller-products.route.js [isSellerProductsCreateUpdateIsValid] missing fields: Availability {"timestamp":"2023-04-25T17:11:37.496Z"}
+info: seller-products.route.js [sellerProductsCreate] entered {"timestamp":"2023-04-25T17:11:37.878Z"}
+info: seller-products.route.js [isSellerProductsCreateUpdateIsValid] entered {"timestamp":"2023-04-25T17:11:37.879Z"}
+error: seller-products.route.js [isSellerProductsCreateUpdateIsValid] missing fields: Availability {"timestamp":"2023-04-25T17:11:37.880Z"}
+info: seller-products.route.js [sellerProductsCreate] entered {"timestamp":"2023-04-25T17:11:38.295Z"}
+info: seller-products.route.js [isSellerProductsCreateUpdateIsValid] entered {"timestamp":"2023-04-25T17:11:38.296Z"}
+error: seller-products.route.js [isSellerProductsCreateUpdateIsValid] missing fields: Availability {"timestamp":"2023-04-25T17:11:38.297Z"}
+info: seller-products.route.js [sellerProductsCreate] entered {"timestamp":"2023-04-25T17:11:38.672Z"}
+info: seller-products.route.js [isSellerProductsCreateUpdateIsValid] entered {"timestamp":"2023-04-25T17:11:38.673Z"}
+error: seller-products.route.js [isSellerProductsCreateUpdateIsValid] missing fields: Availability {"timestamp":"2023-04-25T17:11:38.674Z"}
+info: seller-products.route.js [sellerProductsCreate] entered {"timestamp":"2023-04-25T17:11:39.018Z"}
+info: seller-products.route.js [isSellerProductsCreateUpdateIsValid] entered {"timestamp":"2023-04-25T17:11:39.019Z"}
+error: seller-products.route.js [isSellerProductsCreateUpdateIsValid] missing fields: Availability {"timestamp":"2023-04-25T17:11:39.019Z"}
+info: seller-products.route.js [sellerProductsCreate] entered {"timestamp":"2023-04-25T17:11:39.394Z"}
+info: seller-products.route.js [isSellerProductsCreateUpdateIsValid] entered {"timestamp":"2023-04-25T17:11:39.394Z"}
+error: seller-products.route.js [isSellerProductsCreateUpdateIsValid] missing fields: Availability {"timestamp":"2023-04-25T17:11:39.395Z"}
+info: seller-products.route.js [sellerProductsCreate] entered {"timestamp":"2023-04-25T17:11:39.784Z"}
+info: seller-products.route.js [isSellerProductsCreateUpdateIsValid] entered {"timestamp":"2023-04-25T17:11:39.785Z"}
+error: seller-products.route.js [isSellerProductsCreateUpdateIsValid] missing fields: Availability {"timestamp":"2023-04-25T17:11:39.785Z"}
+info: seller-products.route.js [sellerProductsCreate] entered {"timestamp":"2023-04-25T17:11:40.321Z"}
+info: seller-products.route.js [isSellerProductsCreateUpdateIsValid] entered {"timestamp":"2023-04-25T17:11:40.322Z"}
+error: seller-products.route.js [isSellerProductsCreateUpdateIsValid] missing fields: Availability {"timestamp":"2023-04-25T17:11:40.323Z"}
+info: seller-products.route.js [sellerProductsCreate] entered {"timestamp":"2023-04-25T17:11:40.786Z"}
+info: seller-products.route.js [isSellerProductsCreateUpdateIsValid] entered {"timestamp":"2023-04-25T17:11:40.786Z"}
+error: seller-products.route.js [isSellerProductsCreateUpdateIsValid] missing fields: Availability {"timestamp":"2023-04-25T17:11:40.787Z"}
+info: seller-products.route.js [sellerProductsCreate] entered {"timestamp":"2023-04-25T17:11:41.255Z"}
+info: seller-products.route.js [isSellerProductsCreateUpdateIsValid] entered {"timestamp":"2023-04-25T17:11:41.256Z"}
+error: seller-products.route.js [isSellerProductsCreateUpdateIsValid] missing fields: Availability {"timestamp":"2023-04-25T17:11:41.256Z"}
+info: seller-products.route.js [sellerProductsCreate] entered {"timestamp":"2023-04-25T17:11:41.693Z"}
+info: seller-products.route.js [isSellerProductsCreateUpdateIsValid] entered {"timestamp":"2023-04-25T17:11:41.694Z"}
+error: seller-products.route.js [isSellerProductsCreateUpdateIsValid] missing fields: Availability {"timestamp":"2023-04-25T17:11:41.695Z"}
+info: seller-products.route.js [sellerProductsCreate] entered {"timestamp":"2023-04-25T17:11:44.183Z"}
+info: seller-products.route.js [isSellerProductsCreateUpdateIsValid] entered {"timestamp":"2023-04-25T17:11:44.183Z"}
+error: seller-products.route.js [isSellerProductsCreateUpdateIsValid] missing fields: Availability {"timestamp":"2023-04-25T17:11:44.185Z"}
+info: seller-products.route.js [sellerProductsCreate] entered {"timestamp":"2023-04-25T17:11:46.005Z"}
+info: seller-products.route.js [isSellerProductsCreateUpdateIsValid] entered {"timestamp":"2023-04-25T17:11:46.006Z"}
+error: seller-products.route.js [isSellerProductsCreateUpdateIsValid] missing fields: Availability {"timestamp":"2023-04-25T17:11:46.006Z"}
+info: seller-products.route.js [sellerProductsCreate] entered {"timestamp":"2023-04-25T17:11:46.489Z"}
+info: seller-products.route.js [isSellerProductsCreateUpdateIsValid] entered {"timestamp":"2023-04-25T17:11:46.489Z"}
+error: seller-products.route.js [isSellerProductsCreateUpdateIsValid] missing fields: Availability {"timestamp":"2023-04-25T17:11:46.490Z"}
+info: seller-products.route.js [sellerProductsCreate] entered {"timestamp":"2023-04-25T17:11:52.485Z"}
+info: seller-products.route.js [isSellerProductsCreateUpdateIsValid] entered {"timestamp":"2023-04-25T17:11:52.485Z"}
+error: seller-products.route.js [isSellerProductsCreateUpdateIsValid] missing fields: Availability {"timestamp":"2023-04-25T17:11:52.486Z"}
+info: seller-products.route.js [sellerProductsCreate] entered {"timestamp":"2023-04-25T17:11:57.075Z"}
+info: seller-products.route.js [isSellerProductsCreateUpdateIsValid] entered {"timestamp":"2023-04-25T17:11:57.076Z"}
+error: seller-products.route.js [isSellerProductsCreateUpdateIsValid] missing fields: Availability {"timestamp":"2023-04-25T17:11:57.076Z"}
+info: seller-products.route.js [sellerProductsCreate] entered {"timestamp":"2023-04-25T17:11:57.290Z"}
+info: seller-products.route.js [isSellerProductsCreateUpdateIsValid] entered {"timestamp":"2023-04-25T17:11:57.290Z"}
+error: seller-products.route.js [isSellerProductsCreateUpdateIsValid] missing fields: Availability {"timestamp":"2023-04-25T17:11:57.291Z"}
+info: seller-products.route.js [sellerProductsCreate] entered {"timestamp":"2023-04-25T17:11:57.462Z"}
+info: seller-products.route.js [isSellerProductsCreateUpdateIsValid] entered {"timestamp":"2023-04-25T17:11:57.463Z"}
+error: seller-products.route.js [isSellerProductsCreateUpdateIsValid] missing fields: Availability {"timestamp":"2023-04-25T17:11:57.464Z"}
+info: seller-products.route.js [sellerProductsCreate] entered {"timestamp":"2023-04-25T17:11:57.614Z"}
+info: seller-products.route.js [isSellerProductsCreateUpdateIsValid] entered {"timestamp":"2023-04-25T17:11:57.614Z"}
+error: seller-products.route.js [isSellerProductsCreateUpdateIsValid] missing fields: Availability {"timestamp":"2023-04-25T17:11:57.615Z"}
+info: seller-products.route.js [sellerProductsCreate] entered {"timestamp":"2023-04-25T17:11:57.784Z"}
+info: seller-products.route.js [isSellerProductsCreateUpdateIsValid] entered {"timestamp":"2023-04-25T17:11:57.785Z"}
+error: seller-products.route.js [isSellerProductsCreateUpdateIsValid] missing fields: Availability {"timestamp":"2023-04-25T17:11:57.785Z"}
+info: seller-products.route.js [sellerProductsCreate] entered {"timestamp":"2023-04-25T17:11:57.977Z"}
+info: seller-products.route.js [isSellerProductsCreateUpdateIsValid] entered {"timestamp":"2023-04-25T17:11:57.977Z"}
+error: seller-products.route.js [isSellerProductsCreateUpdateIsValid] missing fields: Availability {"timestamp":"2023-04-25T17:11:57.978Z"}
+info: seller-products.route.js [sellerProductsCreate] entered {"timestamp":"2023-04-25T17:13:11.904Z"}
+info: seller-products.route.js [isSellerProductsCreateUpdateIsValid] entered {"timestamp":"2023-04-25T17:13:11.904Z"}
+error: seller-products.route.js [isSellerProductsCreateUpdateIsValid] missing fields: Availability {"timestamp":"2023-04-25T17:13:11.905Z"}
+info: seller-products.route.js [sellerProductsCreate] entered {"timestamp":"2023-04-25T17:13:22.279Z"}
+info: seller-products.route.js [isSellerProductsCreateUpdateIsValid] entered {"timestamp":"2023-04-25T17:13:22.280Z"}
+error: seller-products.route.js [isSellerProductsCreateUpdateIsValid] missing fields: Availability {"timestamp":"2023-04-25T17:13:22.280Z"}
+info: seller-products.route.js [sellerProductsCreate] entered {"timestamp":"2023-04-25T17:14:35.496Z"}
+info: seller-products.route.js [isSellerProductsCreateUpdateIsValid] entered {"timestamp":"2023-04-25T17:14:35.498Z"}
+info: seller-products.service.js [sellerProductsCreateService] entered {"timestamp":"2023-04-25T17:14:35.498Z"}
+info: seller-products.repository.js [sellerProductsReadRepository] entered, data: {"ASIN":"test","Locale":"test","Seller_name":"test","Availability":false,"Price":500,"Product_name":"test","Product_link":"test"} {"timestamp":"2023-04-25T17:14:35.498Z"}
+warn: seller-products.service.js [sellerProductsCreateService] product(test) already exists, skipping this one. {"timestamp":"2023-04-25T17:14:35.529Z"}
+info: seller-products.route.js [sellerProductsCreate] entered {"timestamp":"2023-04-25T17:17:26.740Z"}
+info: seller-products.route.js [isSellerProductsCreateUpdateIsValid] entered {"timestamp":"2023-04-25T17:17:26.743Z"}
+error: seller-products.route.js [isSellerProductsCreateUpdateIsValid] missing fields: Price {"timestamp":"2023-04-25T17:17:26.744Z"}
+info: seller-products.route.js [sellerProductsCreate] entered {"timestamp":"2023-04-25T17:17:40.863Z"}
+info: seller-products.route.js [isSellerProductsCreateUpdateIsValid] entered {"timestamp":"2023-04-25T17:17:40.863Z"}
+error: seller-products.route.js [isSellerProductsCreateUpdateIsValid] missing fields: Price {"timestamp":"2023-04-25T17:17:40.863Z"}
+info: seller-products.route.js [sellerProductsCreate] entered {"timestamp":"2023-04-25T17:17:50.995Z"}
+info: seller-products.route.js [isSellerProductsCreateUpdateIsValid] entered {"timestamp":"2023-04-25T17:17:50.995Z"}
+error: seller-products.route.js [isSellerProductsCreateUpdateIsValid] missing fields: Price {"timestamp":"2023-04-25T17:17:50.996Z"}
+info: seller-products.route.js [sellerProductsCreate] entered {"timestamp":"2023-04-25T17:18:28.131Z"}
+info: seller-products.route.js [isSellerProductsCreateUpdateIsValid] entered {"timestamp":"2023-04-25T17:18:28.134Z"}
+info: seller-products.service.js [sellerProductsCreateService] entered {"timestamp":"2023-04-25T17:18:28.134Z"}
+info: seller-products.repository.js [sellerProductsReadRepository] entered, data: {"ASIN":"test","Locale":"test","Seller_name":"test","Availability":false,"Price":0,"Product_name":"test","Product_link":"test"} {"timestamp":"2023-04-25T17:18:28.135Z"}
+warn: seller-products.service.js [sellerProductsCreateService] product(test) already exists, skipping this one. {"timestamp":"2023-04-25T17:18:28.144Z"}
+error: seller-products.route.js [sellerProductsCreate] error: "Cannot set headers after they are sent to the client" {"timestamp":"2023-04-25T17:18:28.149Z"}
+error: uncaughtException, reason: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client {"timestamp":"2023-04-25T17:18:28.151Z"}
+info: seller-products.route.js [sellerProductsCreate] entered {"timestamp":"2023-04-25T17:18:32.748Z"}
+info: seller-products.route.js [isSellerProductsCreateUpdateIsValid] entered {"timestamp":"2023-04-25T17:18:32.749Z"}
+info: seller-products.service.js [sellerProductsCreateService] entered {"timestamp":"2023-04-25T17:18:32.750Z"}
+info: seller-products.repository.js [sellerProductsReadRepository] entered, data: {"ASIN":"test","Locale":"test","Seller_name":"test","Availability":false,"Price":0,"Product_name":"test","Product_link":"test"} {"timestamp":"2023-04-25T17:18:32.750Z"}
+warn: seller-products.service.js [sellerProductsCreateService] product(test) already exists, skipping this one. {"timestamp":"2023-04-25T17:18:32.754Z"}
+error: seller-products.route.js [sellerProductsCreate] error: "Cannot set headers after they are sent to the client" {"timestamp":"2023-04-25T17:18:32.755Z"}
+error: uncaughtException, reason: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client {"timestamp":"2023-04-25T17:18:32.755Z"}
+info: seller-products.route.js [sellerProductsCreate] entered {"timestamp":"2023-04-25T17:19:04.902Z"}
+info: seller-products.route.js [isSellerProductsCreateUpdateIsValid] entered {"timestamp":"2023-04-25T17:19:04.905Z"}
+info: seller-products.service.js [sellerProductsCreateService] entered {"timestamp":"2023-04-25T17:19:04.905Z"}
+info: seller-products.repository.js [sellerProductsReadRepository] entered, data: {"ASIN":"test","Locale":"test","Seller_name":"test","Availability":false,"Price":0,"Product_name":"test","Product_link":"test"} {"timestamp":"2023-04-25T17:19:04.905Z"}
+warn: seller-products.service.js [sellerProductsCreateService] product(test) already exists, skipping this one. {"timestamp":"2023-04-25T17:19:04.915Z"}
+error: seller-products.route.js [sellerProductsCreate] error: "Cannot set headers after they are sent to the client" {"timestamp":"2023-04-25T17:19:04.918Z"}
+error: uncaughtException, reason: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client {"timestamp":"2023-04-25T17:19:04.919Z"}
+info: seller-products.route.js [sellerProductsCreate] entered {"timestamp":"2023-04-25T17:19:14.805Z"}
+info: seller-products.route.js [isSellerProductsCreateUpdateIsValid] entered {"timestamp":"2023-04-25T17:19:14.806Z"}
+info: seller-products.service.js [sellerProductsCreateService] entered {"timestamp":"2023-04-25T17:19:14.807Z"}
+info: seller-products.repository.js [sellerProductsReadRepository] entered, data: {"ASIN":"test","Locale":"test","Seller_name":"test","Availability":false,"Price":0,"Product_name":"test","Product_link":"test"} {"timestamp":"2023-04-25T17:19:14.807Z"}
+warn: seller-products.service.js [sellerProductsCreateService] product(test) already exists, skipping this one. {"timestamp":"2023-04-25T17:19:14.812Z"}
+error: seller-products.route.js [sellerProductsCreate] error: "Cannot set headers after they are sent to the client" {"timestamp":"2023-04-25T17:19:14.814Z"}
+error: uncaughtException, reason: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client {"timestamp":"2023-04-25T17:19:14.815Z"}
+info: seller-products.route.js [sellerProductsCreate] entered {"timestamp":"2023-04-25T17:19:33.863Z"}
+info: seller-products.route.js [isSellerProductsCreateUpdateIsValid] entered {"timestamp":"2023-04-25T17:19:33.863Z"}
+info: seller-products.service.js [sellerProductsCreateService] entered {"timestamp":"2023-04-25T17:19:33.864Z"}
+info: seller-products.repository.js [sellerProductsReadRepository] entered, data: {"ASIN":"test","Locale":"test","Seller_name":"","Availability":false,"Price":0,"Product_name":"test","Product_link":"test"} {"timestamp":"2023-04-25T17:19:33.865Z"}
+warn: seller-products.service.js [sellerProductsCreateService] product(test) already exists, skipping this one. {"timestamp":"2023-04-25T17:19:33.868Z"}
+error: seller-products.route.js [sellerProductsCreate] error: "Cannot set headers after they are sent to the client" {"timestamp":"2023-04-25T17:19:33.870Z"}
+error: uncaughtException, reason: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client {"timestamp":"2023-04-25T17:19:33.870Z"}
+info: seller-products.route.js [sellerProductsCreate] entered {"timestamp":"2023-04-25T17:19:36.357Z"}
+info: seller-products.route.js [isSellerProductsCreateUpdateIsValid] entered {"timestamp":"2023-04-25T17:19:36.357Z"}
+info: seller-products.service.js [sellerProductsCreateService] entered {"timestamp":"2023-04-25T17:19:36.358Z"}
+info: seller-products.repository.js [sellerProductsReadRepository] entered, data: {"ASIN":"test","Locale":"test","Seller_name":"","Availability":false,"Price":0,"Product_name":"test","Product_link":"test"} {"timestamp":"2023-04-25T17:19:36.359Z"}
+warn: seller-products.service.js [sellerProductsCreateService] product(test) already exists, skipping this one. {"timestamp":"2023-04-25T17:19:36.361Z"}
+error: seller-products.route.js [sellerProductsCreate] error: "Cannot set headers after they are sent to the client" {"timestamp":"2023-04-25T17:19:36.362Z"}
+error: uncaughtException, reason: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client {"timestamp":"2023-04-25T17:19:36.363Z"}
+info: seller-products.route.js [sellerProductsCreate] entered {"timestamp":"2023-04-25T17:21:03.893Z"}
+info: seller-products.route.js [isSellerProductsCreateUpdateIsValid] entered {"timestamp":"2023-04-25T17:21:03.893Z"}
+info: seller-products.service.js [sellerProductsCreateService] entered {"timestamp":"2023-04-25T17:21:03.894Z"}
+info: seller-products.repository.js [sellerProductsReadRepository] entered, data: {"ASIN":"test","Locale":"test","Seller_name":"","Availability":false,"Price":0,"Product_name":"test","Product_link":"test"} {"timestamp":"2023-04-25T17:21:03.895Z"}
+warn: seller-products.service.js [sellerProductsCreateService] product(test) already exists, skipping this one. {"timestamp":"2023-04-25T17:21:03.896Z"}
+error: seller-products.route.js [sellerProductsCreate] error: "Cannot set headers after they are sent to the client" {"timestamp":"2023-04-25T17:21:03.897Z"}
+error: uncaughtException, reason: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client {"timestamp":"2023-04-25T17:21:03.899Z"}
+info: seller-products.route.js [sellerProductsCreate] entered {"timestamp":"2023-04-25T17:21:43.452Z"}
+info: seller-products.route.js [isSellerProductsCreateUpdateIsValid] entered {"timestamp":"2023-04-25T17:21:43.452Z"}
+info: seller-products.service.js [sellerProductsCreateService] entered {"timestamp":"2023-04-25T17:21:43.453Z"}
+info: seller-products.repository.js [sellerProductsReadRepository] entered, data: {"ASIN":"test","Locale":"test","Seller_name":"","Availability":false,"Price":0,"Product_name":"test","Product_link":"test"} {"timestamp":"2023-04-25T17:21:43.454Z"}
+warn: seller-products.service.js [sellerProductsCreateService] product(test) already exists, skipping this one. {"timestamp":"2023-04-25T17:21:43.456Z"}
+error: seller-products.route.js [sellerProductsCreate] error: "Cannot set headers after they are sent to the client" {"timestamp":"2023-04-25T17:21:43.457Z"}
+error: uncaughtException, reason: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client {"timestamp":"2023-04-25T17:21:43.457Z"}
+info: seller-products.route.js [sellerProductsReadRoute] entered {"timestamp":"2023-04-25T17:21:45.895Z"}
+info: seller-products.route.js [sellerProductsReadIsValid] entered {"timestamp":"2023-04-25T17:21:45.895Z"}
+error: seller-products.route.js [sellerProductsReadIsValid] missing fields: ASIN,Locale {"timestamp":"2023-04-25T17:21:45.896Z"}
+info: seller-products.route.js [sellerProductsCreate] entered {"timestamp":"2023-04-25T17:21:49.950Z"}
+info: seller-products.route.js [isSellerProductsCreateUpdateIsValid] entered {"timestamp":"2023-04-25T17:21:49.950Z"}
+info: seller-products.service.js [sellerProductsCreateService] entered {"timestamp":"2023-04-25T17:21:49.951Z"}
+info: seller-products.repository.js [sellerProductsReadRepository] entered, data: {"ASIN":"test","Locale":"test","Seller_name":"","Availability":false,"Price":0,"Product_name":"test","Product_link":"test"} {"timestamp":"2023-04-25T17:21:49.952Z"}
+warn: seller-products.service.js [sellerProductsCreateService] product(test) already exists, skipping this one. {"timestamp":"2023-04-25T17:21:49.954Z"}
+error: seller-products.route.js [sellerProductsCreate] error: "Cannot set headers after they are sent to the client" {"timestamp":"2023-04-25T17:21:49.955Z"}
+error: uncaughtException, reason: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client {"timestamp":"2023-04-25T17:21:49.955Z"}
+info: seller-products.route.js [sellerProductsCreate] entered {"timestamp":"2023-04-25T17:22:07.270Z"}
+info: seller-products.route.js [isSellerProductsCreateUpdateIsValid] entered {"timestamp":"2023-04-25T17:22:07.272Z"}
+error: seller-products.route.js [isSellerProductsCreateUpdateIsValid] missing fields: Seller_name {"timestamp":"2023-04-25T17:22:07.272Z"}
+info: seller-products.route.js [sellerProductsCreate] entered {"timestamp":"2023-04-25T17:22:19.086Z"}
+info: seller-products.route.js [isSellerProductsCreateUpdateIsValid] entered {"timestamp":"2023-04-25T17:22:19.086Z"}
+info: seller-products.service.js [sellerProductsCreateService] entered {"timestamp":"2023-04-25T17:22:19.087Z"}
+info: seller-products.repository.js [sellerProductsReadRepository] entered, data: {"ASIN":"test","Locale":"test","Seller_name":"test","Availability":false,"Price":0,"Product_name":"test","Product_link":"test"} {"timestamp":"2023-04-25T17:22:19.087Z"}
+warn: seller-products.service.js [sellerProductsCreateService] product(test) already exists, skipping this one. {"timestamp":"2023-04-25T17:22:19.099Z"}
+error: seller-products.route.js [sellerProductsCreate] error: "Cannot set headers after they are sent to the client" {"timestamp":"2023-04-25T17:22:19.100Z"}
+error: uncaughtException, reason: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client {"timestamp":"2023-04-25T17:22:19.101Z"}
+info: seller-products.route.js [sellerProductsCreate] entered {"timestamp":"2023-04-25T17:22:22.793Z"}
+info: seller-products.route.js [isSellerProductsCreateUpdateIsValid] entered {"timestamp":"2023-04-25T17:22:22.794Z"}
+error: seller-products.route.js [isSellerProductsCreateUpdateIsValid] missing fields: Seller_name {"timestamp":"2023-04-25T17:22:22.796Z"}
+info: seller-products.route.js [sellerProductsCreate] entered {"timestamp":"2023-04-25T17:23:01.233Z"}
+info: seller-products.route.js [isSellerProductsCreateUpdateIsValid] entered {"timestamp":"2023-04-25T17:23:01.233Z"}
+error: seller-products.route.js [isSellerProductsCreateUpdateIsValid] missing fields: Seller_name {"timestamp":"2023-04-25T17:23:01.234Z"}
+info: seller-products.route.js [sellerProductsCreate] entered {"timestamp":"2023-04-25T17:23:04.372Z"}
+info: seller-products.route.js [isSellerProductsCreateUpdateIsValid] entered {"timestamp":"2023-04-25T17:23:04.373Z"}
+error: seller-products.route.js [isSellerProductsCreateUpdateIsValid] missing fields: Seller_name {"timestamp":"2023-04-25T17:23:04.373Z"}
+info: seller-products.route.js [sellerProductsCreate] entered {"timestamp":"2023-04-25T17:23:04.965Z"}
+info: seller-products.route.js [isSellerProductsCreateUpdateIsValid] entered {"timestamp":"2023-04-25T17:23:04.965Z"}
+error: seller-products.route.js [isSellerProductsCreateUpdateIsValid] missing fields: Seller_name {"timestamp":"2023-04-25T17:23:04.965Z"}
+info: seller-products.route.js [sellerProductsCreate] entered {"timestamp":"2023-04-25T17:23:10.023Z"}
+info: seller-products.route.js [isSellerProductsCreateUpdateIsValid] entered {"timestamp":"2023-04-25T17:23:10.024Z"}
+error: seller-products.route.js [isSellerProductsCreateUpdateIsValid] missing fields: Seller_name {"timestamp":"2023-04-25T17:23:10.024Z"}
+info: seller-products.route.js [sellerProductsCreate] entered {"timestamp":"2023-04-25T17:23:41.757Z"}
+info: seller-products.route.js [isSellerProductsCreateUpdateIsValid] entered {"timestamp":"2023-04-25T17:23:41.757Z"}
+error: seller-products.route.js [isSellerProductsCreateUpdateIsValid] missing fields: Seller_name {"timestamp":"2023-04-25T17:23:41.758Z"}
+info: seller-products.route.js [sellerProductsCreate] entered {"timestamp":"2023-04-25T17:23:57.269Z"}
+info: seller-products.route.js [isSellerProductsCreateUpdateIsValid] entered {"timestamp":"2023-04-25T17:23:57.269Z"}
+info: seller-products.service.js [sellerProductsCreateService] entered {"timestamp":"2023-04-25T17:23:57.270Z"}
+info: seller-products.repository.js [sellerProductsReadRepository] entered, data: {"ASIN":"test","Locale":"test","Seller_name":"test","Availability":false,"Price":0,"Product_name":"test","Product_link":"test"} {"timestamp":"2023-04-25T17:23:57.270Z"}
+warn: seller-products.service.js [sellerProductsCreateService] product(test) already exists, skipping this one. {"timestamp":"2023-04-25T17:23:57.284Z"}
+error: seller-products.route.js [sellerProductsCreate] error: "Cannot set headers after they are sent to the client" {"timestamp":"2023-04-25T17:23:57.284Z"}
+error: uncaughtException, reason: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client {"timestamp":"2023-04-25T17:23:57.285Z"}
+info: seller-products.route.js [sellerProductsCreate] entered {"timestamp":"2023-04-25T17:24:45.867Z"}
+info: seller-products.route.js [isSellerProductsCreateUpdateIsValid] entered {"timestamp":"2023-04-25T17:24:45.868Z"}
+info: seller-products.service.js [sellerProductsCreateService] entered {"timestamp":"2023-04-25T17:24:45.868Z"}
+info: seller-products.repository.js [sellerProductsReadRepository] entered, data: {"ASIN":"test","Locale":"test","Seller_name":"test","Availability":false,"Price":0,"Product_name":"test","Product_link":"test"} {"timestamp":"2023-04-25T17:24:45.868Z"}
+warn: seller-products.service.js [sellerProductsCreateService] product(test) already exists, skipping this one. {"timestamp":"2023-04-25T17:24:45.870Z"}
+error: seller-products.route.js [sellerProductsCreate] error: "Cannot set headers after they are sent to the client" {"timestamp":"2023-04-25T17:24:45.871Z"}
+error: uncaughtException, reason: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client {"timestamp":"2023-04-25T17:24:45.872Z"}
+info: seller-products.route.js [sellerProductsCreate] entered {"timestamp":"2023-04-25T17:25:19.201Z"}
+info: seller-products.route.js [isSellerProductsCreateUpdateIsValid] entered {"timestamp":"2023-04-25T17:25:19.201Z"}
+info: seller-products.service.js [sellerProductsCreateService] entered {"timestamp":"2023-04-25T17:25:19.202Z"}
+info: seller-products.repository.js [sellerProductsReadRepository] entered, data: {"ASIN":"test","Locale":"test","Seller_name":"test","Availability":false,"Price":0,"Product_name":"test","Product_link":"test"} {"timestamp":"2023-04-25T17:25:19.202Z"}
+warn: seller-products.service.js [sellerProductsCreateService] product(test) already exists, skipping this one. {"timestamp":"2023-04-25T17:25:19.216Z"}
+error: seller-products.route.js [sellerProductsCreate] error: "Cannot set headers after they are sent to the client" {"timestamp":"2023-04-25T17:25:19.219Z"}
+error: uncaughtException, reason: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client {"timestamp":"2023-04-25T17:25:19.219Z"}
+info: seller-products.route.js [sellerProductsCreate] entered {"timestamp":"2023-04-25T17:25:21.738Z"}
+info: seller-products.route.js [isSellerProductsCreateUpdateIsValid] entered {"timestamp":"2023-04-25T17:25:21.738Z"}
+info: seller-products.service.js [sellerProductsCreateService] entered {"timestamp":"2023-04-25T17:25:21.739Z"}
+info: seller-products.repository.js [sellerProductsReadRepository] entered, data: {"ASIN":"test","Locale":"test","Seller_name":"test","Availability":false,"Price":0,"Product_name":"test","Product_link":"test"} {"timestamp":"2023-04-25T17:25:21.740Z"}
+warn: seller-products.service.js [sellerProductsCreateService] product(test) already exists, skipping this one. {"timestamp":"2023-04-25T17:25:21.742Z"}
+error: seller-products.route.js [sellerProductsCreate] error: "Cannot set headers after they are sent to the client" {"timestamp":"2023-04-25T17:25:21.743Z"}
+error: uncaughtException, reason: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client {"timestamp":"2023-04-25T17:25:21.744Z"}
+info: seller-products.route.js [sellerProductsCreate] entered {"timestamp":"2023-04-25T17:26:17.768Z"}
+info: seller-products.route.js [isSellerProductsCreateUpdateIsValid] entered {"timestamp":"2023-04-25T17:26:17.768Z"}
+info: seller-products.service.js [sellerProductsCreateService] entered {"timestamp":"2023-04-25T17:26:17.769Z"}
+info: seller-products.repository.js [sellerProductsReadRepository] entered, data: {"ASIN":"test","Locale":"test","Seller_name":"test","Availability":false,"Price":0,"Product_name":"test","Product_link":"test"} {"timestamp":"2023-04-25T17:26:17.770Z"}
+warn: seller-products.service.js [sellerProductsCreateService] product(test) already exists, skipping this one. {"timestamp":"2023-04-25T17:26:17.772Z"}
+error: seller-products.route.js [sellerProductsCreate] error: "Cannot set headers after they are sent to the client" {"timestamp":"2023-04-25T17:26:17.773Z"}
+error: uncaughtException, reason: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client {"timestamp":"2023-04-25T17:26:17.773Z"}
+info: seller-products.route.js [sellerProductsCreate] entered {"timestamp":"2023-04-25T17:26:18.319Z"}
+info: seller-products.route.js [isSellerProductsCreateUpdateIsValid] entered {"timestamp":"2023-04-25T17:26:18.319Z"}
+info: seller-products.service.js [sellerProductsCreateService] entered {"timestamp":"2023-04-25T17:26:18.321Z"}
+info: seller-products.repository.js [sellerProductsReadRepository] entered, data: {"ASIN":"test","Locale":"test","Seller_name":"test","Availability":false,"Price":0,"Product_name":"test","Product_link":"test"} {"timestamp":"2023-04-25T17:26:18.321Z"}
+warn: seller-products.service.js [sellerProductsCreateService] product(test) already exists, skipping this one. {"timestamp":"2023-04-25T17:26:18.323Z"}
+error: seller-products.route.js [sellerProductsCreate] error: "Cannot set headers after they are sent to the client" {"timestamp":"2023-04-25T17:26:18.323Z"}
+error: uncaughtException, reason: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client {"timestamp":"2023-04-25T17:26:18.324Z"}
+info: seller-products.route.js [sellerProductsCreate] entered {"timestamp":"2023-04-25T17:26:18.706Z"}
+info: seller-products.route.js [isSellerProductsCreateUpdateIsValid] entered {"timestamp":"2023-04-25T17:26:18.706Z"}
+info: seller-products.service.js [sellerProductsCreateService] entered {"timestamp":"2023-04-25T17:26:18.708Z"}
+info: seller-products.repository.js [sellerProductsReadRepository] entered, data: {"ASIN":"test","Locale":"test","Seller_name":"test","Availability":false,"Price":0,"Product_name":"test","Product_link":"test"} {"timestamp":"2023-04-25T17:26:18.708Z"}
+warn: seller-products.service.js [sellerProductsCreateService] product(test) already exists, skipping this one. {"timestamp":"2023-04-25T17:26:18.710Z"}
+error: seller-products.route.js [sellerProductsCreate] error: "Cannot set headers after they are sent to the client" {"timestamp":"2023-04-25T17:26:18.711Z"}
+error: uncaughtException, reason: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client {"timestamp":"2023-04-25T17:26:18.711Z"}
+info: seller-products.route.js [sellerProductsCreate] entered {"timestamp":"2023-04-25T17:26:19.057Z"}
+info: seller-products.route.js [isSellerProductsCreateUpdateIsValid] entered {"timestamp":"2023-04-25T17:26:19.057Z"}
+info: seller-products.service.js [sellerProductsCreateService] entered {"timestamp":"2023-04-25T17:26:19.058Z"}
+info: seller-products.repository.js [sellerProductsReadRepository] entered, data: {"ASIN":"test","Locale":"test","Seller_name":"test","Availability":false,"Price":0,"Product_name":"test","Product_link":"test"} {"timestamp":"2023-04-25T17:26:19.058Z"}
+warn: seller-products.service.js [sellerProductsCreateService] product(test) already exists, skipping this one. {"timestamp":"2023-04-25T17:26:19.060Z"}
+error: seller-products.route.js [sellerProductsCreate] error: "Cannot set headers after they are sent to the client" {"timestamp":"2023-04-25T17:26:19.061Z"}
+error: uncaughtException, reason: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client {"timestamp":"2023-04-25T17:26:19.062Z"}
+info: seller-products.route.js [sellerProductsCreate] entered {"timestamp":"2023-04-25T17:26:19.430Z"}
+info: seller-products.route.js [isSellerProductsCreateUpdateIsValid] entered {"timestamp":"2023-04-25T17:26:19.430Z"}
+info: seller-products.service.js [sellerProductsCreateService] entered {"timestamp":"2023-04-25T17:26:19.431Z"}
+info: seller-products.repository.js [sellerProductsReadRepository] entered, data: {"ASIN":"test","Locale":"test","Seller_name":"test","Availability":false,"Price":0,"Product_name":"test","Product_link":"test"} {"timestamp":"2023-04-25T17:26:19.432Z"}
+warn: seller-products.service.js [sellerProductsCreateService] product(test) already exists, skipping this one. {"timestamp":"2023-04-25T17:26:19.434Z"}
+error: seller-products.route.js [sellerProductsCreate] error: "Cannot set headers after they are sent to the client" {"timestamp":"2023-04-25T17:26:19.435Z"}
+error: uncaughtException, reason: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client {"timestamp":"2023-04-25T17:26:19.436Z"}
+info: seller-products.route.js [sellerProductsCreate] entered {"timestamp":"2023-04-25T17:26:19.826Z"}
+info: seller-products.route.js [isSellerProductsCreateUpdateIsValid] entered {"timestamp":"2023-04-25T17:26:19.826Z"}
+info: seller-products.service.js [sellerProductsCreateService] entered {"timestamp":"2023-04-25T17:26:19.827Z"}
+info: seller-products.repository.js [sellerProductsReadRepository] entered, data: {"ASIN":"test","Locale":"test","Seller_name":"test","Availability":false,"Price":0,"Product_name":"test","Product_link":"test"} {"timestamp":"2023-04-25T17:26:19.828Z"}
+warn: seller-products.service.js [sellerProductsCreateService] product(test) already exists, skipping this one. {"timestamp":"2023-04-25T17:26:19.830Z"}
+error: seller-products.route.js [sellerProductsCreate] error: "Cannot set headers after they are sent to the client" {"timestamp":"2023-04-25T17:26:19.831Z"}
+error: uncaughtException, reason: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client {"timestamp":"2023-04-25T17:26:19.831Z"}
+info: seller-products.route.js [sellerProductsCreate] entered {"timestamp":"2023-04-25T17:26:20.345Z"}
+info: seller-products.route.js [isSellerProductsCreateUpdateIsValid] entered {"timestamp":"2023-04-25T17:26:20.345Z"}
+info: seller-products.service.js [sellerProductsCreateService] entered {"timestamp":"2023-04-25T17:26:20.346Z"}
+info: seller-products.repository.js [sellerProductsReadRepository] entered, data: {"ASIN":"test","Locale":"test","Seller_name":"test","Availability":false,"Price":0,"Product_name":"test","Product_link":"test"} {"timestamp":"2023-04-25T17:26:20.347Z"}
+warn: seller-products.service.js [sellerProductsCreateService] product(test) already exists, skipping this one. {"timestamp":"2023-04-25T17:26:20.350Z"}
+error: seller-products.route.js [sellerProductsCreate] error: "Cannot set headers after they are sent to the client" {"timestamp":"2023-04-25T17:26:20.350Z"}
+error: uncaughtException, reason: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client {"timestamp":"2023-04-25T17:26:20.351Z"}
+info: seller-products.route.js [sellerProductsCreate] entered {"timestamp":"2023-04-25T17:26:21.582Z"}
+info: seller-products.route.js [isSellerProductsCreateUpdateIsValid] entered {"timestamp":"2023-04-25T17:26:21.582Z"}
+info: seller-products.service.js [sellerProductsCreateService] entered {"timestamp":"2023-04-25T17:26:21.583Z"}
+info: seller-products.repository.js [sellerProductsReadRepository] entered, data: {"ASIN":"test","Locale":"test","Seller_name":"test","Availability":false,"Price":0,"Product_name":"test","Product_link":"test"} {"timestamp":"2023-04-25T17:26:21.583Z"}
+warn: seller-products.service.js [sellerProductsCreateService] product(test) already exists, skipping this one. {"timestamp":"2023-04-25T17:26:21.585Z"}
+error: seller-products.route.js [sellerProductsCreate] error: "Cannot set headers after they are sent to the client" {"timestamp":"2023-04-25T17:26:21.586Z"}
+error: uncaughtException, reason: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client {"timestamp":"2023-04-25T17:26:21.587Z"}
+info: seller-products.route.js [sellerProductsCreate] entered {"timestamp":"2023-04-25T17:26:45.733Z"}
+info: seller-products.route.js [isSellerProductsCreateUpdateIsValid] entered {"timestamp":"2023-04-25T17:26:45.733Z"}
+info: seller-products.service.js [sellerProductsCreateService] entered {"timestamp":"2023-04-25T17:26:45.734Z"}
+info: seller-products.repository.js [sellerProductsReadRepository] entered, data: {"ASIN":"test","Locale":"test","Seller_name":"test","Availability":false,"Price":0,"Product_name":"test","Product_link":"test"} {"timestamp":"2023-04-25T17:26:45.735Z"}
+warn: seller-products.service.js [sellerProductsCreateService] product(test) already exists, skipping this one. {"timestamp":"2023-04-25T17:26:45.738Z"}
+error: seller-products.route.js [sellerProductsCreate] error: "Cannot set headers after they are sent to the client" {"timestamp":"2023-04-25T17:26:45.738Z"}
+error: uncaughtException, reason: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client {"timestamp":"2023-04-25T17:26:45.739Z"}
+info: seller-products.route.js [sellerProductsCreate] entered {"timestamp":"2023-04-25T17:26:56.931Z"}
+info: seller-products.route.js [isSellerProductsCreateUpdateIsValid] entered {"timestamp":"2023-04-25T17:26:56.931Z"}
+info: seller-products.service.js [sellerProductsCreateService] entered {"timestamp":"2023-04-25T17:26:56.932Z"}
+info: seller-products.repository.js [sellerProductsReadRepository] entered, data: {"ASIN":"test","Locale":"test","Seller_name":"test","Availability":false,"Price":0,"Product_name":"test","Product_link":"test"} {"timestamp":"2023-04-25T17:26:56.932Z"}
+warn: seller-products.service.js [sellerProductsCreateService] product(test) already exists, skipping this one. {"timestamp":"2023-04-25T17:26:56.941Z"}
+error: seller-products.route.js [sellerProductsCreate] error: "Cannot set headers after they are sent to the client" {"timestamp":"2023-04-25T17:26:56.942Z"}
+error: uncaughtException, reason: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client {"timestamp":"2023-04-25T17:26:56.943Z"}
+info: seller-products.route.js [sellerProductsCreate] entered {"timestamp":"2023-04-25T17:27:13.101Z"}
+info: seller-products.route.js [isSellerProductsCreateUpdateIsValid] entered {"timestamp":"2023-04-25T17:27:13.102Z"}
+info: seller-products.service.js [sellerProductsCreateService] entered {"timestamp":"2023-04-25T17:27:13.102Z"}
+info: seller-products.repository.js [sellerProductsReadRepository] entered, data: {"ASIN":"test","Locale":"test","Seller_name":"test","Availability":false,"Price":0,"Product_name":"test","Product_link":"test"} {"timestamp":"2023-04-25T17:27:13.103Z"}
+warn: seller-products.service.js [sellerProductsCreateService] product(test) already exists, skipping this one. {"timestamp":"2023-04-25T17:27:13.106Z"}
+error: seller-products.route.js [sellerProductsCreate] error: "Cannot set headers after they are sent to the client" {"timestamp":"2023-04-25T17:27:13.107Z"}
+error: uncaughtException, reason: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client {"timestamp":"2023-04-25T17:27:13.107Z"}
+info: seller-products.route.js [sellerProductsCreate] entered {"timestamp":"2023-04-25T17:27:38.432Z"}
+info: seller-products.route.js [isSellerProductsCreateUpdateIsValid] entered {"timestamp":"2023-04-25T17:27:38.433Z"}
+info: seller-products.service.js [sellerProductsCreateService] entered {"timestamp":"2023-04-25T17:27:38.433Z"}
+info: seller-products.repository.js [sellerProductsReadRepository] entered, data: {"ASIN":"test222","Locale":"test222","Seller_name":"test222","Availability":true,"Price":0,"Product_name":"test222","Product_link":"test222"} {"timestamp":"2023-04-25T17:27:38.434Z"}
+info: seller-products.repository.js [sellerProductsCreateRepository] entered, data: {"ASIN":"test222","Locale":"test222","Seller_name":"test222","Availability":true,"Price":0,"Product_name":"test222","Product_link":"test222"} {"timestamp":"2023-04-25T17:27:38.441Z"}
+info: seller-products.service.js [sellerProductsCreateService] repositoryRes: {"ASIN":"test222","Locale":"test222","Seller_name":"test222","Availability":true,"Price":0,"Product_name":"test222","Product_link":"test222","_id":"64480d8a1a03347e65e45482","createdAt":"2023-04-25T17:27:38.450Z","updatedAt":"2023-04-25T17:27:38.450Z","__v":0} {"timestamp":"2023-04-25T17:27:38.471Z"}
+info: seller-products.route.js [sellerProductsCreate] entered {"timestamp":"2023-04-25T17:29:09.358Z"}
+info: seller-products.route.js [isSellerProductsCreateUpdateIsValid] entered {"timestamp":"2023-04-25T17:29:09.358Z"}
+info: seller-products.service.js [sellerProductsCreateService] entered {"timestamp":"2023-04-25T17:29:09.358Z"}
+info: seller-products.repository.js [sellerProductsReadRepository] entered, data: {"ASIN":"test222","Locale":"test222","Seller_name":"test222","Availability":true,"Price":0,"Product_name":"test222","Product_link":"test222"} {"timestamp":"2023-04-25T17:29:09.359Z"}
+warn: seller-products.service.js [sellerProductsCreateService] product(test222) already exists, skipping this one. {"timestamp":"2023-04-25T17:29:09.361Z"}
+error: seller-products.route.js [sellerProductsCreate] error: "Cannot set headers after they are sent to the client" {"timestamp":"2023-04-25T17:29:09.362Z"}
+error: uncaughtException, reason: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client {"timestamp":"2023-04-25T17:29:09.363Z"}
+info: seller-products.route.js [sellerProductsCreate] entered {"timestamp":"2023-04-25T17:29:10.537Z"}
+info: seller-products.route.js [isSellerProductsCreateUpdateIsValid] entered {"timestamp":"2023-04-25T17:29:10.537Z"}
+info: seller-products.service.js [sellerProductsCreateService] entered {"timestamp":"2023-04-25T17:29:10.538Z"}
+info: seller-products.repository.js [sellerProductsReadRepository] entered, data: {"ASIN":"test222","Locale":"test222","Seller_name":"test222","Availability":true,"Price":0,"Product_name":"test222","Product_link":"test222"} {"timestamp":"2023-04-25T17:29:10.538Z"}
+warn: seller-products.service.js [sellerProductsCreateService] product(test222) already exists, skipping this one. {"timestamp":"2023-04-25T17:29:10.541Z"}
+error: seller-products.route.js [sellerProductsCreate] error: "Cannot set headers after they are sent to the client" {"timestamp":"2023-04-25T17:29:10.541Z"}
+error: uncaughtException, reason: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client {"timestamp":"2023-04-25T17:29:10.542Z"}
+info: seller-products.route.js [sellerProductsCreate] entered {"timestamp":"2023-04-25T17:45:29.905Z"}
+info: seller-products.route.js [isSellerProductsCreateUpdateIsValid] entered {"timestamp":"2023-04-25T17:45:29.905Z"}
+info: seller-products.service.js [sellerProductsCreateService] entered {"timestamp":"2023-04-25T17:45:29.906Z"}
+info: seller-products.repository.js [sellerProductsReadRepository] entered, data: {"ASIN":"test222","Locale":"test222","Seller_name":"test222","Availability":true,"Price":0,"Product_name":"test222","Product_link":"test222"} {"timestamp":"2023-04-25T17:45:29.907Z"}
+warn: seller-products.service.js [sellerProductsCreateService] product(test222) already exists, skipping this one. {"timestamp":"2023-04-25T17:45:29.909Z"}
+error: seller-products.route.js [sellerProductsCreate] error: "Cannot set headers after they are sent to the client" {"timestamp":"2023-04-25T17:45:29.910Z"}
+error: uncaughtException, reason: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client {"timestamp":"2023-04-25T17:45:29.910Z"}
+info: seller-products.route.js [sellerProductsCreate] entered {"timestamp":"2023-04-25T17:45:35.609Z"}
+info: seller-products.route.js [isSellerProductsCreateUpdateIsValid] entered {"timestamp":"2023-04-25T17:45:35.609Z"}
+info: seller-products.service.js [sellerProductsCreateService] entered {"timestamp":"2023-04-25T17:45:35.610Z"}
+info: seller-products.repository.js [sellerProductsReadRepository] entered, data: {"ASIN":"test222","Locale":"test222","Seller_name":"test222","Availability":true,"Price":0,"Product_name":"test222","Product_link":"test222"} {"timestamp":"2023-04-25T17:45:35.610Z"}
+warn: seller-products.service.js [sellerProductsCreateService] product(test222) already exists, skipping this one. {"timestamp":"2023-04-25T17:45:35.613Z"}
+error: seller-products.route.js [sellerProductsCreate] error: "Cannot set headers after they are sent to the client" {"timestamp":"2023-04-25T17:45:35.614Z"}
+error: uncaughtException, reason: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client {"timestamp":"2023-04-25T17:45:35.615Z"}
+info: seller-products.route.js [sellerProductsCreate] entered {"timestamp":"2023-04-25T17:45:35.821Z"}
+info: seller-products.route.js [isSellerProductsCreateUpdateIsValid] entered {"timestamp":"2023-04-25T17:45:35.822Z"}
+info: seller-products.service.js [sellerProductsCreateService] entered {"timestamp":"2023-04-25T17:45:35.823Z"}
+info: seller-products.repository.js [sellerProductsReadRepository] entered, data: {"ASIN":"test222","Locale":"test222","Seller_name":"test222","Availability":true,"Price":0,"Product_name":"test222","Product_link":"test222"} {"timestamp":"2023-04-25T17:45:35.823Z"}
+warn: seller-products.service.js [sellerProductsCreateService] product(test222) already exists, skipping this one. {"timestamp":"2023-04-25T17:45:35.826Z"}
+error: seller-products.route.js [sellerProductsCreate] error: "Cannot set headers after they are sent to the client" {"timestamp":"2023-04-25T17:45:35.827Z"}
+error: uncaughtException, reason: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client {"timestamp":"2023-04-25T17:45:35.827Z"}
+info: seller-products.route.js [sellerProductsCreate] entered {"timestamp":"2023-04-25T17:45:36.022Z"}
+info: seller-products.route.js [isSellerProductsCreateUpdateIsValid] entered {"timestamp":"2023-04-25T17:45:36.022Z"}
+info: seller-products.service.js [sellerProductsCreateService] entered {"timestamp":"2023-04-25T17:45:36.023Z"}
+info: seller-products.repository.js [sellerProductsReadRepository] entered, data: {"ASIN":"test222","Locale":"test222","Seller_name":"test222","Availability":true,"Price":0,"Product_name":"test222","Product_link":"test222"} {"timestamp":"2023-04-25T17:45:36.024Z"}
+warn: seller-products.service.js [sellerProductsCreateService] product(test222) already exists, skipping this one. {"timestamp":"2023-04-25T17:45:36.026Z"}
+error: seller-products.route.js [sellerProductsCreate] error: "Cannot set headers after they are sent to the client" {"timestamp":"2023-04-25T17:45:36.026Z"}
+error: uncaughtException, reason: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client {"timestamp":"2023-04-25T17:45:36.027Z"}
+info: seller-products.route.js [sellerProductsCreate] entered {"timestamp":"2023-04-25T17:45:36.185Z"}
+info: seller-products.route.js [isSellerProductsCreateUpdateIsValid] entered {"timestamp":"2023-04-25T17:45:36.185Z"}
+info: seller-products.service.js [sellerProductsCreateService] entered {"timestamp":"2023-04-25T17:45:36.186Z"}
+info: seller-products.repository.js [sellerProductsReadRepository] entered, data: {"ASIN":"test222","Locale":"test222","Seller_name":"test222","Availability":true,"Price":0,"Product_name":"test222","Product_link":"test222"} {"timestamp":"2023-04-25T17:45:36.187Z"}
+warn: seller-products.service.js [sellerProductsCreateService] product(test222) already exists, skipping this one. {"timestamp":"2023-04-25T17:45:36.189Z"}
+error: seller-products.route.js [sellerProductsCreate] error: "Cannot set headers after they are sent to the client" {"timestamp":"2023-04-25T17:45:36.189Z"}
+error: uncaughtException, reason: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client {"timestamp":"2023-04-25T17:45:36.190Z"}
+info: seller-products.route.js [sellerProductsCreate] entered {"timestamp":"2023-04-25T17:45:44.763Z"}
+info: seller-products.route.js [isSellerProductsCreateUpdateIsValid] entered {"timestamp":"2023-04-25T17:45:44.764Z"}
+info: seller-products.service.js [sellerProductsCreateService] entered {"timestamp":"2023-04-25T17:45:44.764Z"}
+info: seller-products.repository.js [sellerProductsReadRepository] entered, data: {"ASIN":"test","Locale":"test","Seller_name":"test","Availability":false,"Price":0,"Product_name":"test","Product_link":"test"} {"timestamp":"2023-04-25T17:45:44.765Z"}
+warn: seller-products.service.js [sellerProductsCreateService] product(test) already exists, skipping this one. {"timestamp":"2023-04-25T17:45:44.768Z"}
+error: seller-products.route.js [sellerProductsCreate] error: "Cannot set headers after they are sent to the client" {"timestamp":"2023-04-25T17:45:44.769Z"}
+error: uncaughtException, reason: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client {"timestamp":"2023-04-25T17:45:44.770Z"}
+info: seller-products.route.js [sellerProductsCreate] entered {"timestamp":"2023-04-25T17:45:45.048Z"}
+info: seller-products.route.js [isSellerProductsCreateUpdateIsValid] entered {"timestamp":"2023-04-25T17:45:45.048Z"}
+info: seller-products.service.js [sellerProductsCreateService] entered {"timestamp":"2023-04-25T17:45:45.049Z"}
+info: seller-products.repository.js [sellerProductsReadRepository] entered, data: {"ASIN":"test","Locale":"test","Seller_name":"test","Availability":false,"Price":0,"Product_name":"test","Product_link":"test"} {"timestamp":"2023-04-25T17:45:45.049Z"}
+warn: seller-products.service.js [sellerProductsCreateService] product(test) already exists, skipping this one. {"timestamp":"2023-04-25T17:45:45.051Z"}
+error: seller-products.route.js [sellerProductsCreate] error: "Cannot set headers after they are sent to the client" {"timestamp":"2023-04-25T17:45:45.052Z"}
+error: uncaughtException, reason: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client {"timestamp":"2023-04-25T17:45:45.052Z"}
+info: seller-products.route.js [sellerProductsCreate] entered {"timestamp":"2023-04-25T17:46:11.086Z"}
+info: seller-products.route.js [isSellerProductsCreateUpdateIsValid] entered {"timestamp":"2023-04-25T17:46:11.086Z"}
+info: seller-products.service.js [sellerProductsCreateService] entered {"timestamp":"2023-04-25T17:46:11.086Z"}
+info: seller-products.repository.js [sellerProductsReadRepository] entered, data: {"ASIN":"test","Locale":"test","Seller_name":"test","Availability":false,"Price":0,"Product_name":"test","Product_link":"test"} {"timestamp":"2023-04-25T17:46:11.086Z"}
+warn: seller-products.service.js [sellerProductsCreateService] product(test) already exists, skipping this one. {"timestamp":"2023-04-25T17:46:11.088Z"}
+error: seller-products.route.js [sellerProductsCreate] error: "Cannot set headers after they are sent to the client" {"timestamp":"2023-04-25T17:46:11.089Z"}
+error: uncaughtException, reason: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client {"timestamp":"2023-04-25T17:46:11.090Z"}
+info: seller-products.route.js [sellerProductsCreate] entered {"timestamp":"2023-04-25T17:47:41.449Z"}
+info: seller-products.route.js [isSellerProductsCreateUpdateIsValid] entered {"timestamp":"2023-04-25T17:47:41.452Z"}
+info: seller-products.service.js [sellerProductsCreateService] entered {"timestamp":"2023-04-25T17:47:41.453Z"}
+info: seller-products.repository.js [sellerProductsReadRepository] entered, data: {"ASIN":"test","Locale":"test","Seller_name":"test","Availability":false,"Price":0,"Product_name":"test","Product_link":"test"} {"timestamp":"2023-04-25T17:47:41.454Z"}
+warn: seller-products.service.js [sellerProductsCreateService] product(test) already exists, skipping this one. {"timestamp":"2023-04-25T17:47:41.504Z"}
+info: seller-products.route.js [sellerProductsCreate] entered {"timestamp":"2023-04-25T17:47:49.172Z"}
+info: seller-products.route.js [isSellerProductsCreateUpdateIsValid] entered {"timestamp":"2023-04-25T17:47:49.173Z"}
+info: seller-products.service.js [sellerProductsCreateService] entered {"timestamp":"2023-04-25T17:47:49.174Z"}
+info: seller-products.repository.js [sellerProductsReadRepository] entered, data: {"ASIN":"test","Locale":"test","Seller_name":"test","Availability":false,"Price":0,"Product_name":"test","Product_link":"test"} {"timestamp":"2023-04-25T17:47:49.174Z"}
+warn: seller-products.service.js [sellerProductsCreateService] product(test) already exists, skipping this one. {"timestamp":"2023-04-25T17:47:49.240Z"}
+info: seller-products.route.js [sellerProductsCreate] entered {"timestamp":"2023-04-25T17:47:54.388Z"}
+info: seller-products.route.js [isSellerProductsCreateUpdateIsValid] entered {"timestamp":"2023-04-25T17:47:54.388Z"}
+info: seller-products.service.js [sellerProductsCreateService] entered {"timestamp":"2023-04-25T17:47:54.388Z"}
+info: seller-products.repository.js [sellerProductsReadRepository] entered, data: {"ASIN":"test","Locale":"test","Seller_name":"test","Availability":false,"Price":0,"Product_name":"test","Product_link":"test"} {"timestamp":"2023-04-25T17:47:54.389Z"}
+warn: seller-products.service.js [sellerProductsCreateService] product(test) already exists, skipping this one. {"timestamp":"2023-04-25T17:47:54.391Z"}
+info: seller-products.route.js [sellerProductsCreate] entered {"timestamp":"2023-04-25T17:56:59.098Z"}
+info: seller-products.route.js [isSellerProductsCreateUpdateIsValid] entered {"timestamp":"2023-04-25T17:56:59.099Z"}
+error: seller-products.route.js [isSellerProductsCreateUpdateIsValid] missing fields: ASIN,Locale,Seller_name,Product_name,Product_link {"timestamp":"2023-04-25T17:56:59.100Z"}
+info: seller-products.route.js [sellerProductsReadAllBySellerNameRoute] entered {"timestamp":"2023-04-25T18:01:44.864Z"}
+info: seller-products.service.js [sellerProductsReadAllBySellerNameService] entered {"timestamp":"2023-04-25T18:01:44.865Z"}
+info: seller-products.repository.js [sellerProductsReadAllBySellerNameRepository] entered, data: {"Seller_name":"chen"} {"timestamp":"2023-04-25T18:01:44.866Z"}
+info: seller-products.repository.js [sellerProductsReadAllBySellerNameRepository] condition: {"Seller_name":"chen"} {"timestamp":"2023-04-25T18:01:44.866Z"}
+info: seller-products.service.js [sellerProductsReadAllBySellerNameService] repositoryRes: [{"_id":"6447d6dfb2dc4e22e579832f","ASIN":"test000","Locale":"test000","Seller_name":"chen","Availability":true,"Price":500,"Product_name":"test","Product_link":"test","createdAt":"2023-04-25T13:34:23.819Z","updatedAt":"2023-04-25T13:34:23.819Z","__v":0},{"_id":"6447d6ecb2dc4e22e5798334","ASIN":"test0001","Locale":"test0001","Seller_name":"chen","Availability":true,"Price":500,"Product_name":"test","Product_link":"test","createdAt":"2023-04-25T13:34:36.844Z","updatedAt":"2023-04-25T13:34:36.844Z","__v":0}] {"timestamp":"2023-04-25T18:01:44.879Z"}
+info: seller-products.route.js [sellerProductsReadAllBySellerNameRoute] entered {"timestamp":"2023-04-25T18:13:55.749Z"}
+info: seller-products.service.js [sellerProductsReadAllBySellerNameService] entered {"timestamp":"2023-04-25T18:13:55.753Z"}
+info: seller-products.repository.js [sellerProductsReadAllBySellerNameRepository] entered, data: {"Seller_name":"chen"} {"timestamp":"2023-04-25T18:13:55.754Z"}
+info: seller-products.repository.js [sellerProductsReadAllBySellerNameRepository] condition: {"Seller_name":"chen"} {"timestamp":"2023-04-25T18:13:55.754Z"}
+info: seller-products.service.js [sellerProductsReadAllBySellerNameService] repositoryRes: [{"_id":"6447d6dfb2dc4e22e579832f","ASIN":"test000","Locale":"test000","Seller_name":"chen","Availability":true,"Price":500,"Product_name":"test","Product_link":"test","createdAt":"2023-04-25T13:34:23.819Z","updatedAt":"2023-04-25T13:34:23.819Z","__v":0},{"_id":"6447d6ecb2dc4e22e5798334","ASIN":"test0001","Locale":"test0001","Seller_name":"chen","Availability":true,"Price":500,"Product_name":"test","Product_link":"test","createdAt":"2023-04-25T13:34:36.844Z","updatedAt":"2023-04-25T13:34:36.844Z","__v":0}] {"timestamp":"2023-04-25T18:13:55.771Z"}
+info: seller-products.route.js [sellerProductsReadAllBySellerNameRoute] entered {"timestamp":"2023-04-25T18:14:49.866Z"}
+info: seller-products.service.js [sellerProductsReadAllBySellerNameService] entered {"timestamp":"2023-04-25T18:14:49.867Z"}
+info: seller-products.repository.js [sellerProductsReadAllBySellerNameRepository] entered, data: {"Seller_name":"chen"} {"timestamp":"2023-04-25T18:14:49.868Z"}
+info: seller-products.repository.js [sellerProductsReadAllBySellerNameRepository] condition: {"Seller_name":"chen"} {"timestamp":"2023-04-25T18:14:49.868Z"}
+info: seller-products.service.js [sellerProductsReadAllBySellerNameService] repositoryRes: [{"_id":"6447d6dfb2dc4e22e579832f","ASIN":"test000","Locale":"test000","Seller_name":"chen","Availability":true,"Price":500,"Product_name":"test","Product_link":"test","createdAt":"2023-04-25T13:34:23.819Z","updatedAt":"2023-04-25T13:34:23.819Z","__v":0},{"_id":"6447d6ecb2dc4e22e5798334","ASIN":"test0001","Locale":"test0001","Seller_name":"chen","Availability":true,"Price":500,"Product_name":"test","Product_link":"test","createdAt":"2023-04-25T13:34:36.844Z","updatedAt":"2023-04-25T13:34:36.844Z","__v":0}] {"timestamp":"2023-04-25T18:14:49.880Z"}
+info: seller-products.route.js [sellerProductsReadAllBySellerNameRoute] entered {"timestamp":"2023-04-25T18:15:59.212Z"}
+info: seller-products.service.js [sellerProductsReadAllBySellerNameService] entered {"timestamp":"2023-04-25T18:15:59.213Z"}
+info: seller-products.repository.js [sellerProductsReadAllBySellerNameRepository] entered, data: {"Seller_name":"chen"} {"timestamp":"2023-04-25T18:15:59.214Z"}
+info: seller-products.repository.js [sellerProductsReadAllBySellerNameRepository] condition: {"Seller_name":"chen"} {"timestamp":"2023-04-25T18:15:59.214Z"}
+info: seller-products.service.js [sellerProductsReadAllBySellerNameService] repositoryRes: [{"_id":"6447d6dfb2dc4e22e579832f","ASIN":"test000","Locale":"test000","Seller_name":"chen","Availability":true,"Price":500,"Product_name":"test","Product_link":"test","createdAt":"2023-04-25T13:34:23.819Z","updatedAt":"2023-04-25T13:34:23.819Z","__v":0},{"_id":"6447d6ecb2dc4e22e5798334","ASIN":"test0001","Locale":"test0001","Seller_name":"chen","Availability":true,"Price":500,"Product_name":"test","Product_link":"test","createdAt":"2023-04-25T13:34:36.844Z","updatedAt":"2023-04-25T13:34:36.844Z","__v":0}] {"timestamp":"2023-04-25T18:15:59.225Z"}
+info: seller-products.route.js [sellerProductsReadAllBySellerNameRoute] entered {"timestamp":"2023-04-25T18:16:39.428Z"}
+info: seller-products.service.js [sellerProductsReadAllBySellerNameService] entered {"timestamp":"2023-04-25T18:16:39.429Z"}
+info: seller-products.repository.js [sellerProductsReadAllBySellerNameRepository] entered, data: {"Seller_name":"chen"} {"timestamp":"2023-04-25T18:16:39.430Z"}
+info: seller-products.repository.js [sellerProductsReadAllBySellerNameRepository] condition: {"Seller_name":"chen"} {"timestamp":"2023-04-25T18:16:39.430Z"}
+info: seller-products.service.js [sellerProductsReadAllBySellerNameService] repositoryRes: [{"_id":"6447d6dfb2dc4e22e579832f","ASIN":"test000","Locale":"test000","Seller_name":"chen","Availability":true,"Price":500,"Product_name":"test","Product_link":"test","createdAt":"2023-04-25T13:34:23.819Z","updatedAt":"2023-04-25T13:34:23.819Z","__v":0},{"_id":"6447d6ecb2dc4e22e5798334","ASIN":"test0001","Locale":"test0001","Seller_name":"chen","Availability":true,"Price":500,"Product_name":"test","Product_link":"test","createdAt":"2023-04-25T13:34:36.844Z","updatedAt":"2023-04-25T13:34:36.844Z","__v":0}] {"timestamp":"2023-04-25T18:16:39.434Z"}
+error: uncaughtException, reason: ReferenceError: SellerChange is not defined {"timestamp":"2023-04-25T18:26:18.204Z"}
+error: uncaughtException, reason: ReferenceError: useSelector is not defined {"timestamp":"2023-04-25T18:28:21.578Z"}
+error: uncaughtException, reason: ReferenceError: useSelector is not defined {"timestamp":"2023-04-25T18:28:21.591Z"}
+info: seller-products.route.js [sellerProductsReadAllBySellerNameRoute] entered {"timestamp":"2023-04-25T18:33:05.272Z"}
+info: seller-products.service.js [sellerProductsReadAllBySellerNameService] entered {"timestamp":"2023-04-25T18:33:05.275Z"}
+info: seller-products.repository.js [sellerProductsReadAllBySellerNameRepository] entered, data: {"Seller_name":"chen"} {"timestamp":"2023-04-25T18:33:05.276Z"}
+info: seller-products.repository.js [sellerProductsReadAllBySellerNameRepository] condition: {"Seller_name":"chen"} {"timestamp":"2023-04-25T18:33:05.276Z"}
+info: seller-products.service.js [sellerProductsReadAllBySellerNameService] repositoryRes: [{"_id":"6447d6dfb2dc4e22e579832f","ASIN":"test000","Locale":"test000","Seller_name":"chen","Availability":true,"Price":500,"Product_name":"test","Product_link":"test","createdAt":"2023-04-25T13:34:23.819Z","updatedAt":"2023-04-25T13:34:23.819Z","__v":0},{"_id":"6447d6ecb2dc4e22e5798334","ASIN":"test0001","Locale":"test0001","Seller_name":"chen","Availability":true,"Price":500,"Product_name":"test","Product_link":"test","createdAt":"2023-04-25T13:34:36.844Z","updatedAt":"2023-04-25T13:34:36.844Z","__v":0}] {"timestamp":"2023-04-25T18:33:05.290Z"}
+info: seller-products.route.js [sellerProductsCreate] entered {"timestamp":"2023-04-25T18:42:05.747Z"}
+info: seller-products.route.js [isSellerProductsCreateUpdateIsValid] entered {"timestamp":"2023-04-25T18:42:05.749Z"}
+info: seller-products.service.js [sellerProductsCreateService] entered {"timestamp":"2023-04-25T18:42:05.750Z"}
+info: seller-products.repository.js [sellerProductsReadRepository] entered, data: {"ASIN":"test","Locale":"test","Seller_name":"test","Availability":false,"Price":0,"Product_name":"test","Product_link":"test"} {"timestamp":"2023-04-25T18:42:05.750Z"}
+warn: seller-products.service.js [sellerProductsCreateService] product(test) already exists, skipping this one. {"timestamp":"2023-04-25T18:42:05.762Z"}
+info: seller-products.route.js [sellerProductsCreate] entered {"timestamp":"2023-04-25T18:42:07.036Z"}
+info: seller-products.route.js [isSellerProductsCreateUpdateIsValid] entered {"timestamp":"2023-04-25T18:42:07.037Z"}
+info: seller-products.service.js [sellerProductsCreateService] entered {"timestamp":"2023-04-25T18:42:07.037Z"}
+info: seller-products.repository.js [sellerProductsReadRepository] entered, data: {"ASIN":"test","Locale":"test","Seller_name":"test","Availability":false,"Price":0,"Product_name":"test","Product_link":"test"} {"timestamp":"2023-04-25T18:42:07.038Z"}
+warn: seller-products.service.js [sellerProductsCreateService] product(test) already exists, skipping this one. {"timestamp":"2023-04-25T18:42:07.040Z"}
+info: seller-products.route.js [sellerProductsCreate] entered {"timestamp":"2023-04-25T18:42:07.200Z"}
+info: seller-products.route.js [isSellerProductsCreateUpdateIsValid] entered {"timestamp":"2023-04-25T18:42:07.200Z"}
+info: seller-products.service.js [sellerProductsCreateService] entered {"timestamp":"2023-04-25T18:42:07.200Z"}
+info: seller-products.repository.js [sellerProductsReadRepository] entered, data: {"ASIN":"test","Locale":"test","Seller_name":"test","Availability":false,"Price":0,"Product_name":"test","Product_link":"test"} {"timestamp":"2023-04-25T18:42:07.201Z"}
+warn: seller-products.service.js [sellerProductsCreateService] product(test) already exists, skipping this one. {"timestamp":"2023-04-25T18:42:07.203Z"}
+info: seller-products.route.js [sellerProductsCreate] entered {"timestamp":"2023-04-25T18:42:07.375Z"}
+info: seller-products.route.js [isSellerProductsCreateUpdateIsValid] entered {"timestamp":"2023-04-25T18:42:07.375Z"}
+info: seller-products.service.js [sellerProductsCreateService] entered {"timestamp":"2023-04-25T18:42:07.376Z"}
+info: seller-products.repository.js [sellerProductsReadRepository] entered, data: {"ASIN":"test","Locale":"test","Seller_name":"test","Availability":false,"Price":0,"Product_name":"test","Product_link":"test"} {"timestamp":"2023-04-25T18:42:07.376Z"}
+warn: seller-products.service.js [sellerProductsCreateService] product(test) already exists, skipping this one. {"timestamp":"2023-04-25T18:42:07.378Z"}
+info: seller-products.route.js [sellerProductsReadAllBySellerNameRoute] entered {"timestamp":"2023-04-25T18:42:10.534Z"}
+info: seller-products.route.js [sellerProductsCreate] entered {"timestamp":"2023-04-25T19:10:30.530Z"}
+info: seller-products.route.js [isSellerProductsCreateUpdateIsValid] entered {"timestamp":"2023-04-25T19:10:30.531Z"}
+info: seller-products.service.js [sellerProductsCreateService] entered {"timestamp":"2023-04-25T19:10:30.531Z"}
+info: seller-products.repository.js [sellerProductsReadRepository] entered, data: {"ASIN":"test1111","Locale":"test1111","Seller_name":"chen","Availability":true,"Price":0,"Product_name":"test","Product_link":"test"} {"timestamp":"2023-04-25T19:10:30.532Z"}
+info: seller-products.repository.js [sellerProductsCreateRepository] entered, data: {"ASIN":"test1111","Locale":"test1111","Seller_name":"chen","Availability":true,"Price":0,"Product_name":"test","Product_link":"test"} {"timestamp":"2023-04-25T19:10:30.534Z"}
+info: seller-products.service.js [sellerProductsCreateService] repositoryRes: {"ASIN":"test1111","Locale":"test1111","Seller_name":"chen","Availability":true,"Price":0,"Product_name":"test","Product_link":"test","_id":"644825a6d5f901eae0ba9766","createdAt":"2023-04-25T19:10:30.541Z","updatedAt":"2023-04-25T19:10:30.541Z","__v":0} {"timestamp":"2023-04-25T19:10:30.545Z"}
+info: seller-products.route.js [sellerProductsCreate] entered {"timestamp":"2023-04-25T19:10:34.937Z"}
+info: seller-products.route.js [isSellerProductsCreateUpdateIsValid] entered {"timestamp":"2023-04-25T19:10:34.937Z"}
+info: seller-products.service.js [sellerProductsCreateService] entered {"timestamp":"2023-04-25T19:10:34.938Z"}
+info: seller-products.repository.js [sellerProductsReadRepository] entered, data: {"ASIN":"test11111","Locale":"test11111","Seller_name":"chen","Availability":false,"Price":0,"Product_name":"test","Product_link":"test"} {"timestamp":"2023-04-25T19:10:34.938Z"}
+info: seller-products.repository.js [sellerProductsCreateRepository] entered, data: {"ASIN":"test11111","Locale":"test11111","Seller_name":"chen","Availability":false,"Price":0,"Product_name":"test","Product_link":"test"} {"timestamp":"2023-04-25T19:10:34.940Z"}
+info: seller-products.service.js [sellerProductsCreateService] repositoryRes: {"ASIN":"test11111","Locale":"test11111","Seller_name":"chen","Availability":false,"Price":0,"Product_name":"test","Product_link":"test","_id":"644825aad5f901eae0ba9769","createdAt":"2023-04-25T19:10:34.942Z","updatedAt":"2023-04-25T19:10:34.942Z","__v":0} {"timestamp":"2023-04-25T19:10:34.944Z"}
+info: seller-products.route.js [sellerProductsReadAllBySellerNameRoute] entered {"timestamp":"2023-04-25T19:10:36.932Z"}
+info: seller-products.service.js [sellerProductsReadAllBySellerNameService] entered {"timestamp":"2023-04-25T19:10:36.932Z"}
+info: seller-products.repository.js [sellerProductsReadAllBySellerNameRepository] entered, data: {"Seller_name":"chen"} {"timestamp":"2023-04-25T19:10:36.933Z"}
+info: seller-products.repository.js [sellerProductsReadAllBySellerNameRepository] condition: {"Seller_name":"chen"} {"timestamp":"2023-04-25T19:10:36.933Z"}
+info: seller-products.service.js [sellerProductsReadAllBySellerNameService] repositoryRes: [{"_id":"6447d6dfb2dc4e22e579832f","ASIN":"test000","Locale":"test000","Seller_name":"chen","Availability":true,"Price":500,"Product_name":"test","Product_link":"test","createdAt":"2023-04-25T13:34:23.819Z","updatedAt":"2023-04-25T13:34:23.819Z","__v":0},{"_id":"6447d6ecb2dc4e22e5798334","ASIN":"test0001","Locale":"test0001","Seller_name":"chen","Availability":true,"Price":500,"Product_name":"test","Product_link":"test","createdAt":"2023-04-25T13:34:36.844Z","updatedAt":"2023-04-25T13:34:36.844Z","__v":0},{"_id":"644825a6d5f901eae0ba9766","ASIN":"test1111","Locale":"test1111","Seller_name":"chen","Availability":true,"Price":0,"Product_name":"test","Product_link":"test","createdAt":"2023-04-25T19:10:30.541Z","updatedAt":"2023-04-25T19:10:30.541Z","__v":0},{"_id":"644825aad5f901eae0ba9769","ASIN":"test11111","Locale":"test11111","Seller_name":"chen","Availability":false,"Price":0,"Product_name":"test","Product_link":"test","createdAt":"2023-04-25T19:10:34.942Z","updatedAt":"2023-04-25T19:10:34.942Z","__v":0}] {"timestamp":"2023-04-25T19:10:36.936Z"}
+info: seller-products.route.js [sellerProductsCreate] entered {"timestamp":"2023-04-25T19:11:44.452Z"}
+info: seller-products.route.js [isSellerProductsCreateUpdateIsValid] entered {"timestamp":"2023-04-25T19:11:44.452Z"}
+info: seller-products.service.js [sellerProductsCreateService] entered {"timestamp":"2023-04-25T19:11:44.453Z"}
+info: seller-products.repository.js [sellerProductsReadRepository] entered, data: {"ASIN":"test111111","Locale":"test111111","Seller_name":"chen","Availability":false,"Price":0,"Product_name":"test","Product_link":"test"} {"timestamp":"2023-04-25T19:11:44.453Z"}
+info: seller-products.repository.js [sellerProductsCreateRepository] entered, data: {"ASIN":"test111111","Locale":"test111111","Seller_name":"chen","Availability":false,"Price":0,"Product_name":"test","Product_link":"test"} {"timestamp":"2023-04-25T19:11:44.455Z"}
+info: seller-products.service.js [sellerProductsCreateService] repositoryRes: {"ASIN":"test111111","Locale":"test111111","Seller_name":"chen","Availability":false,"Price":0,"Product_name":"test","Product_link":"test","_id":"644825f0d5f901eae0ba976d","createdAt":"2023-04-25T19:11:44.456Z","updatedAt":"2023-04-25T19:11:44.456Z","__v":0} {"timestamp":"2023-04-25T19:11:44.457Z"}
+info: seller-products.route.js [sellerProductsReadAllBySellerNameRoute] entered {"timestamp":"2023-04-25T19:11:46.227Z"}
+info: seller-products.service.js [sellerProductsReadAllBySellerNameService] entered {"timestamp":"2023-04-25T19:11:46.227Z"}
+info: seller-products.repository.js [sellerProductsReadAllBySellerNameRepository] entered, data: {"Seller_name":"chen"} {"timestamp":"2023-04-25T19:11:46.228Z"}
+info: seller-products.repository.js [sellerProductsReadAllBySellerNameRepository] condition: {"Seller_name":"chen"} {"timestamp":"2023-04-25T19:11:46.229Z"}
+info: seller-products.service.js [sellerProductsReadAllBySellerNameService] repositoryRes: [{"_id":"6447d6dfb2dc4e22e579832f","ASIN":"test000","Locale":"test000","Seller_name":"chen","Availability":true,"Price":500,"Product_name":"test","Product_link":"test","createdAt":"2023-04-25T13:34:23.819Z","updatedAt":"2023-04-25T13:34:23.819Z","__v":0},{"_id":"6447d6ecb2dc4e22e5798334","ASIN":"test0001","Locale":"test0001","Seller_name":"chen","Availability":true,"Price":500,"Product_name":"test","Product_link":"test","createdAt":"2023-04-25T13:34:36.844Z","updatedAt":"2023-04-25T13:34:36.844Z","__v":0},{"_id":"644825a6d5f901eae0ba9766","ASIN":"test1111","Locale":"test1111","Seller_name":"chen","Availability":true,"Price":0,"Product_name":"test","Product_link":"test","createdAt":"2023-04-25T19:10:30.541Z","updatedAt":"2023-04-25T19:10:30.541Z","__v":0},{"_id":"644825aad5f901eae0ba9769","ASIN":"test11111","Locale":"test11111","Seller_name":"chen","Availability":false,"Price":0,"Product_name":"test","Product_link":"test","createdAt":"2023-04-25T19:10:34.942Z","updatedAt":"2023-04-25T19:10:34.942Z","__v":0},{"_id":"644825f0d5f901eae0ba976d","ASIN":"test111111","Locale":"test111111","Seller_name":"chen","Availability":false,"Price":0,"Product_name":"test","Product_link":"test","createdAt":"2023-04-25T19:11:44.456Z","updatedAt":"2023-04-25T19:11:44.456Z","__v":0}] {"timestamp":"2023-04-25T19:11:46.231Z"}
+info: seller-products.route.js [sellerProductsReadAllBySellerNameRoute] entered {"timestamp":"2023-04-25T19:18:58.641Z"}
+info: seller-products.service.js [sellerProductsReadAllBySellerNameService] entered {"timestamp":"2023-04-25T19:18:58.644Z"}
+info: seller-products.repository.js [sellerProductsReadAllBySellerNameRepository] entered, data: {"Seller_name":"chen"} {"timestamp":"2023-04-25T19:18:58.645Z"}
+info: seller-products.repository.js [sellerProductsReadAllBySellerNameRepository] condition: {"Seller_name":"chen"} {"timestamp":"2023-04-25T19:18:58.645Z"}
+info: seller-products.service.js [sellerProductsReadAllBySellerNameService] repositoryRes: [{"_id":"6447d6dfb2dc4e22e579832f","ASIN":"test000","Locale":"test000","Seller_name":"chen","Availability":true,"Price":500,"Product_name":"test","Product_link":"test","createdAt":"2023-04-25T13:34:23.819Z","updatedAt":"2023-04-25T13:34:23.819Z","__v":0},{"_id":"6447d6ecb2dc4e22e5798334","ASIN":"test0001","Locale":"test0001","Seller_name":"chen","Availability":true,"Price":500,"Product_name":"test","Product_link":"test","createdAt":"2023-04-25T13:34:36.844Z","updatedAt":"2023-04-25T13:34:36.844Z","__v":0},{"_id":"644825a6d5f901eae0ba9766","ASIN":"test1111","Locale":"test1111","Seller_name":"chen","Availability":true,"Price":0,"Product_name":"test","Product_link":"test","createdAt":"2023-04-25T19:10:30.541Z","updatedAt":"2023-04-25T19:10:30.541Z","__v":0},{"_id":"644825aad5f901eae0ba9769","ASIN":"test11111","Locale":"test11111","Seller_name":"chen","Availability":false,"Price":0,"Product_name":"test","Product_link":"test","createdAt":"2023-04-25T19:10:34.942Z","updatedAt":"2023-04-25T19:10:34.942Z","__v":0},{"_id":"644825f0d5f901eae0ba976d","ASIN":"test111111","Locale":"test111111","Seller_name":"chen","Availability":false,"Price":0,"Product_name":"test","Product_link":"test","createdAt":"2023-04-25T19:11:44.456Z","updatedAt":"2023-04-25T19:11:44.456Z","__v":0}] {"timestamp":"2023-04-25T19:18:58.659Z"}
+info: seller-products.route.js [sellerProductsReadAllBySellerNameRoute] entered {"timestamp":"2023-04-25T19:20:39.387Z"}
+info: seller-products.service.js [sellerProductsReadAllBySellerNameService] entered {"timestamp":"2023-04-25T19:20:39.389Z"}
+info: seller-products.repository.js [sellerProductsReadAllBySellerNameRepository] entered, data: {"Seller_name":"chen"} {"timestamp":"2023-04-25T19:20:39.389Z"}
+info: seller-products.repository.js [sellerProductsReadAllBySellerNameRepository] condition: {"Seller_name":"chen"} {"timestamp":"2023-04-25T19:20:39.390Z"}
+info: seller-products.service.js [sellerProductsReadAllBySellerNameService] repositoryRes: [{"_id":"6447d6dfb2dc4e22e579832f","ASIN":"test000","Locale":"test000","Seller_name":"chen","Availability":true,"Price":500,"Product_name":"test","Product_link":"test","createdAt":"2023-04-25T13:34:23.819Z","updatedAt":"2023-04-25T13:34:23.819Z","__v":0},{"_id":"6447d6ecb2dc4e22e5798334","ASIN":"test0001","Locale":"test0001","Seller_name":"chen","Availability":true,"Price":500,"Product_name":"test","Product_link":"test","createdAt":"2023-04-25T13:34:36.844Z","updatedAt":"2023-04-25T13:34:36.844Z","__v":0},{"_id":"644825a6d5f901eae0ba9766","ASIN":"test1111","Locale":"test1111","Seller_name":"chen","Availability":true,"Price":0,"Product_name":"test","Product_link":"test","createdAt":"2023-04-25T19:10:30.541Z","updatedAt":"2023-04-25T19:10:30.541Z","__v":0},{"_id":"644825aad5f901eae0ba9769","ASIN":"test11111","Locale":"test11111","Seller_name":"chen","Availability":false,"Price":0,"Product_name":"test","Product_link":"test","createdAt":"2023-04-25T19:10:34.942Z","updatedAt":"2023-04-25T19:10:34.942Z","__v":0},{"_id":"644825f0d5f901eae0ba976d","ASIN":"test111111","Locale":"test111111","Seller_name":"chen","Availability":false,"Price":0,"Product_name":"test","Product_link":"test","createdAt":"2023-04-25T19:11:44.456Z","updatedAt":"2023-04-25T19:11:44.456Z","__v":0}] {"timestamp":"2023-04-25T19:20:39.401Z"}
+info: seller-products.route.js [sellerProductsReadAllBySellerNameRoute] entered {"timestamp":"2023-04-25T19:21:00.736Z"}
+info: seller-products.service.js [sellerProductsReadAllBySellerNameService] entered {"timestamp":"2023-04-25T19:21:00.737Z"}
+info: seller-products.repository.js [sellerProductsReadAllBySellerNameRepository] entered, data: {"Seller_name":"chen"} {"timestamp":"2023-04-25T19:21:00.738Z"}
+info: seller-products.repository.js [sellerProductsReadAllBySellerNameRepository] condition: {"Seller_name":"chen"} {"timestamp":"2023-04-25T19:21:00.738Z"}
+info: seller-products.service.js [sellerProductsReadAllBySellerNameService] repositoryRes: [{"_id":"6447d6dfb2dc4e22e579832f","ASIN":"test000","Locale":"test000","Seller_name":"chen","Availability":true,"Price":500,"Product_name":"test","Product_link":"test","createdAt":"2023-04-25T13:34:23.819Z","updatedAt":"2023-04-25T13:34:23.819Z","__v":0},{"_id":"6447d6ecb2dc4e22e5798334","ASIN":"test0001","Locale":"test0001","Seller_name":"chen","Availability":true,"Price":500,"Product_name":"test","Product_link":"test","createdAt":"2023-04-25T13:34:36.844Z","updatedAt":"2023-04-25T13:34:36.844Z","__v":0},{"_id":"644825a6d5f901eae0ba9766","ASIN":"test1111","Locale":"test1111","Seller_name":"chen","Availability":true,"Price":0,"Product_name":"test","Product_link":"test","createdAt":"2023-04-25T19:10:30.541Z","updatedAt":"2023-04-25T19:10:30.541Z","__v":0},{"_id":"644825aad5f901eae0ba9769","ASIN":"test11111","Locale":"test11111","Seller_name":"chen","Availability":false,"Price":0,"Product_name":"test","Product_link":"test","createdAt":"2023-04-25T19:10:34.942Z","updatedAt":"2023-04-25T19:10:34.942Z","__v":0},{"_id":"644825f0d5f901eae0ba976d","ASIN":"test111111","Locale":"test111111","Seller_name":"chen","Availability":false,"Price":0,"Product_name":"test","Product_link":"test","createdAt":"2023-04-25T19:11:44.456Z","updatedAt":"2023-04-25T19:11:44.456Z","__v":0}] {"timestamp":"2023-04-25T19:21:00.742Z"}
+info: seller-products.route.js [sellerProductsDeleteManyRoute] entered {"timestamp":"2023-04-25T19:25:31.253Z"}
+info: seller-products.route.js [isSellerProductsDeleteManyIsValid] entered {"timestamp":"2023-04-25T19:25:31.254Z"}
+info: seller-products.route.js [sellerProductsReadAllBySellerNameRoute] entered {"timestamp":"2023-04-25T19:25:47.882Z"}
+info: seller-products.service.js [sellerProductsReadAllBySellerNameService] entered {"timestamp":"2023-04-25T19:25:47.883Z"}
+info: seller-products.repository.js [sellerProductsReadAllBySellerNameRepository] entered, data: {"Seller_name":"chen"} {"timestamp":"2023-04-25T19:25:47.884Z"}
+info: seller-products.repository.js [sellerProductsReadAllBySellerNameRepository] condition: {"Seller_name":"chen"} {"timestamp":"2023-04-25T19:25:47.885Z"}
+info: seller-products.service.js [sellerProductsReadAllBySellerNameService] repositoryRes: [{"_id":"6447d6dfb2dc4e22e579832f","ASIN":"test000","Locale":"test000","Seller_name":"chen","Availability":true,"Price":500,"Product_name":"test","Product_link":"test","createdAt":"2023-04-25T13:34:23.819Z","updatedAt":"2023-04-25T13:34:23.819Z","__v":0},{"_id":"6447d6ecb2dc4e22e5798334","ASIN":"test0001","Locale":"test0001","Seller_name":"chen","Availability":true,"Price":500,"Product_name":"test","Product_link":"test","createdAt":"2023-04-25T13:34:36.844Z","updatedAt":"2023-04-25T13:34:36.844Z","__v":0},{"_id":"644825a6d5f901eae0ba9766","ASIN":"test1111","Locale":"test1111","Seller_name":"chen","Availability":true,"Price":0,"Product_name":"test","Product_link":"test","createdAt":"2023-04-25T19:10:30.541Z","updatedAt":"2023-04-25T19:10:30.541Z","__v":0},{"_id":"644825aad5f901eae0ba9769","ASIN":"test11111","Locale":"test11111","Seller_name":"chen","Availability":false,"Price":0,"Product_name":"test","Product_link":"test","createdAt":"2023-04-25T19:10:34.942Z","updatedAt":"2023-04-25T19:10:34.942Z","__v":0},{"_id":"644825f0d5f901eae0ba976d","ASIN":"test111111","Locale":"test111111","Seller_name":"chen","Availability":false,"Price":0,"Product_name":"test","Product_link":"test","createdAt":"2023-04-25T19:11:44.456Z","updatedAt":"2023-04-25T19:11:44.456Z","__v":0}] {"timestamp":"2023-04-25T19:25:47.897Z"}
+info: seller-products.route.js [sellerProductsDeleteManyRoute] entered {"timestamp":"2023-04-25T19:25:49.635Z"}
+info: seller-products.route.js [isSellerProductsDeleteManyIsValid] entered {"timestamp":"2023-04-25T19:25:49.636Z"}
+info: seller-products.route.js [sellerProductsDeleteManyRoute] entered {"timestamp":"2023-04-25T19:25:50.498Z"}
+info: seller-products.route.js [isSellerProductsDeleteManyIsValid] entered {"timestamp":"2023-04-25T19:25:50.498Z"}
+info: seller-products.route.js [sellerProductsDeleteManyRoute] entered {"timestamp":"2023-04-25T19:25:51.880Z"}
+info: seller-products.route.js [isSellerProductsDeleteManyIsValid] entered {"timestamp":"2023-04-25T19:25:51.880Z"}
+info: seller-products.route.js [sellerProductsReadAllBySellerNameRoute] entered {"timestamp":"2023-04-25T19:28:07.293Z"}
+info: seller-products.route.js [sellerProductsReadAllBySellerNameRoute] entered {"timestamp":"2023-04-25T19:28:10.526Z"}
+info: seller-products.service.js [sellerProductsReadAllBySellerNameService] entered {"timestamp":"2023-04-25T19:28:10.527Z"}
+info: seller-products.repository.js [sellerProductsReadAllBySellerNameRepository] entered, data: {"Seller_name":"chen"} {"timestamp":"2023-04-25T19:28:10.527Z"}
+info: seller-products.repository.js [sellerProductsReadAllBySellerNameRepository] condition: {"Seller_name":"chen"} {"timestamp":"2023-04-25T19:28:10.527Z"}
+info: seller-products.service.js [sellerProductsReadAllBySellerNameService] repositoryRes: [{"_id":"6447d6dfb2dc4e22e579832f","ASIN":"test000","Locale":"test000","Seller_name":"chen","Availability":true,"Price":500,"Product_name":"test","Product_link":"test","createdAt":"2023-04-25T13:34:23.819Z","updatedAt":"2023-04-25T13:34:23.819Z","__v":0},{"_id":"6447d6ecb2dc4e22e5798334","ASIN":"test0001","Locale":"test0001","Seller_name":"chen","Availability":true,"Price":500,"Product_name":"test","Product_link":"test","createdAt":"2023-04-25T13:34:36.844Z","updatedAt":"2023-04-25T13:34:36.844Z","__v":0},{"_id":"644825a6d5f901eae0ba9766","ASIN":"test1111","Locale":"test1111","Seller_name":"chen","Availability":true,"Price":0,"Product_name":"test","Product_link":"test","createdAt":"2023-04-25T19:10:30.541Z","updatedAt":"2023-04-25T19:10:30.541Z","__v":0},{"_id":"644825aad5f901eae0ba9769","ASIN":"test11111","Locale":"test11111","Seller_name":"chen","Availability":false,"Price":0,"Product_name":"test","Product_link":"test","createdAt":"2023-04-25T19:10:34.942Z","updatedAt":"2023-04-25T19:10:34.942Z","__v":0},{"_id":"644825f0d5f901eae0ba976d","ASIN":"test111111","Locale":"test111111","Seller_name":"chen","Availability":false,"Price":0,"Product_name":"test","Product_link":"test","createdAt":"2023-04-25T19:11:44.456Z","updatedAt":"2023-04-25T19:11:44.456Z","__v":0}] {"timestamp":"2023-04-25T19:28:10.540Z"}
+info: seller-products.route.js [sellerProductsDeleteManyRoute] entered {"timestamp":"2023-04-25T19:28:12.308Z"}
+info: seller-products.route.js [isSellerProductsDeleteManyIsValid] entered {"timestamp":"2023-04-25T19:28:12.308Z"}
+info: seller-products.route.js [sellerProductsReadAllBySellerNameRoute] entered {"timestamp":"2023-04-25T19:31:18.684Z"}
+info: seller-products.service.js [sellerProductsReadAllBySellerNameService] entered {"timestamp":"2023-04-25T19:31:18.685Z"}
+info: seller-products.repository.js [sellerProductsReadAllBySellerNameRepository] entered, data: {"Seller_name":"chen"} {"timestamp":"2023-04-25T19:31:18.686Z"}
+info: seller-products.repository.js [sellerProductsReadAllBySellerNameRepository] condition: {"Seller_name":"chen"} {"timestamp":"2023-04-25T19:31:18.686Z"}
+info: seller-products.service.js [sellerProductsReadAllBySellerNameService] repositoryRes: [{"_id":"6447d6dfb2dc4e22e579832f","ASIN":"test000","Locale":"test000","Seller_name":"chen","Availability":true,"Price":500,"Product_name":"test","Product_link":"test","createdAt":"2023-04-25T13:34:23.819Z","updatedAt":"2023-04-25T13:34:23.819Z","__v":0},{"_id":"6447d6ecb2dc4e22e5798334","ASIN":"test0001","Locale":"test0001","Seller_name":"chen","Availability":true,"Price":500,"Product_name":"test","Product_link":"test","createdAt":"2023-04-25T13:34:36.844Z","updatedAt":"2023-04-25T13:34:36.844Z","__v":0},{"_id":"644825a6d5f901eae0ba9766","ASIN":"test1111","Locale":"test1111","Seller_name":"chen","Availability":true,"Price":0,"Product_name":"test","Product_link":"test","createdAt":"2023-04-25T19:10:30.541Z","updatedAt":"2023-04-25T19:10:30.541Z","__v":0},{"_id":"644825aad5f901eae0ba9769","ASIN":"test11111","Locale":"test11111","Seller_name":"chen","Availability":false,"Price":0,"Product_name":"test","Product_link":"test","createdAt":"2023-04-25T19:10:34.942Z","updatedAt":"2023-04-25T19:10:34.942Z","__v":0},{"_id":"644825f0d5f901eae0ba976d","ASIN":"test111111","Locale":"test111111","Seller_name":"chen","Availability":false,"Price":0,"Product_name":"test","Product_link":"test","createdAt":"2023-04-25T19:11:44.456Z","updatedAt":"2023-04-25T19:11:44.456Z","__v":0}] {"timestamp":"2023-04-25T19:31:18.697Z"}
+info: seller-products.route.js [sellerProductsReadAllBySellerNameRoute] entered {"timestamp":"2023-04-25T19:31:23.424Z"}
+info: seller-products.service.js [sellerProductsReadAllBySellerNameService] entered {"timestamp":"2023-04-25T19:31:23.424Z"}
+info: seller-products.repository.js [sellerProductsReadAllBySellerNameRepository] entered, data: {"Seller_name":"chen"} {"timestamp":"2023-04-25T19:31:23.425Z"}
+info: seller-products.repository.js [sellerProductsReadAllBySellerNameRepository] condition: {"Seller_name":"chen"} {"timestamp":"2023-04-25T19:31:23.425Z"}
+info: seller-products.service.js [sellerProductsReadAllBySellerNameService] repositoryRes: [{"_id":"6447d6dfb2dc4e22e579832f","ASIN":"test000","Locale":"test000","Seller_name":"chen","Availability":true,"Price":500,"Product_name":"test","Product_link":"test","createdAt":"2023-04-25T13:34:23.819Z","updatedAt":"2023-04-25T13:34:23.819Z","__v":0},{"_id":"6447d6ecb2dc4e22e5798334","ASIN":"test0001","Locale":"test0001","Seller_name":"chen","Availability":true,"Price":500,"Product_name":"test","Product_link":"test","createdAt":"2023-04-25T13:34:36.844Z","updatedAt":"2023-04-25T13:34:36.844Z","__v":0},{"_id":"644825a6d5f901eae0ba9766","ASIN":"test1111","Locale":"test1111","Seller_name":"chen","Availability":true,"Price":0,"Product_name":"test","Product_link":"test","createdAt":"2023-04-25T19:10:30.541Z","updatedAt":"2023-04-25T19:10:30.541Z","__v":0},{"_id":"644825aad5f901eae0ba9769","ASIN":"test11111","Locale":"test11111","Seller_name":"chen","Availability":false,"Price":0,"Product_name":"test","Product_link":"test","createdAt":"2023-04-25T19:10:34.942Z","updatedAt":"2023-04-25T19:10:34.942Z","__v":0},{"_id":"644825f0d5f901eae0ba976d","ASIN":"test111111","Locale":"test111111","Seller_name":"chen","Availability":false,"Price":0,"Product_name":"test","Product_link":"test","createdAt":"2023-04-25T19:11:44.456Z","updatedAt":"2023-04-25T19:11:44.456Z","__v":0}] {"timestamp":"2023-04-25T19:31:23.428Z"}
+info: seller-products.route.js [sellerProductsDeleteManyRoute] entered {"timestamp":"2023-04-25T19:31:24.380Z"}
+info: seller-products.route.js [isSellerProductsDeleteManyIsValid] entered {"timestamp":"2023-04-25T19:31:24.380Z"}
+info: seller-products.service.js [sellerProductsDeleteManyService] entered {"timestamp":"2023-04-25T19:31:24.380Z"}
+info: seller-products.repository.js [sellerProductsDeleteManyRepository] entered, data: [{"ASIN":"test000","Locale":"test000"}] {"timestamp":"2023-04-25T19:31:24.381Z"}
+info: seller-products.service.js [sellerProductsDeleteManyService] repositoryRes: {"acknowledged":true,"deletedCount":1} {"timestamp":"2023-04-25T19:31:24.385Z"}
+info: seller-products.route.js [sellerProductsDeleteManyRoute] entered {"timestamp":"2023-04-25T19:31:25.214Z"}
+info: seller-products.route.js [isSellerProductsDeleteManyIsValid] entered {"timestamp":"2023-04-25T19:31:25.214Z"}
+info: seller-products.service.js [sellerProductsDeleteManyService] entered {"timestamp":"2023-04-25T19:31:25.214Z"}
+info: seller-products.repository.js [sellerProductsDeleteManyRepository] entered, data: [{"ASIN":"test000","Locale":"test000"}] {"timestamp":"2023-04-25T19:31:25.215Z"}
+info: seller-products.service.js [sellerProductsDeleteManyService] repositoryRes: {"acknowledged":true,"deletedCount":0} {"timestamp":"2023-04-25T19:31:25.216Z"}
+error: seller-products.service.js [sellerProductsDeleteManyService] MONGODB result: deletedCount is 0, products not found. {"timestamp":"2023-04-25T19:31:25.216Z"}
+info: seller-products.route.js [sellerProductsReadAllBySellerNameRoute] entered {"timestamp":"2023-04-25T19:31:26.494Z"}
+info: seller-products.service.js [sellerProductsReadAllBySellerNameService] entered {"timestamp":"2023-04-25T19:31:26.494Z"}
+info: seller-products.repository.js [sellerProductsReadAllBySellerNameRepository] entered, data: {"Seller_name":"chen"} {"timestamp":"2023-04-25T19:31:26.495Z"}
+info: seller-products.repository.js [sellerProductsReadAllBySellerNameRepository] condition: {"Seller_name":"chen"} {"timestamp":"2023-04-25T19:31:26.495Z"}
+info: seller-products.service.js [sellerProductsReadAllBySellerNameService] repositoryRes: [{"_id":"6447d6ecb2dc4e22e5798334","ASIN":"test0001","Locale":"test0001","Seller_name":"chen","Availability":true,"Price":500,"Product_name":"test","Product_link":"test","createdAt":"2023-04-25T13:34:36.844Z","updatedAt":"2023-04-25T13:34:36.844Z","__v":0},{"_id":"644825a6d5f901eae0ba9766","ASIN":"test1111","Locale":"test1111","Seller_name":"chen","Availability":true,"Price":0,"Product_name":"test","Product_link":"test","createdAt":"2023-04-25T19:10:30.541Z","updatedAt":"2023-04-25T19:10:30.541Z","__v":0},{"_id":"644825aad5f901eae0ba9769","ASIN":"test11111","Locale":"test11111","Seller_name":"chen","Availability":false,"Price":0,"Product_name":"test","Product_link":"test","createdAt":"2023-04-25T19:10:34.942Z","updatedAt":"2023-04-25T19:10:34.942Z","__v":0},{"_id":"644825f0d5f901eae0ba976d","ASIN":"test111111","Locale":"test111111","Seller_name":"chen","Availability":false,"Price":0,"Product_name":"test","Product_link":"test","createdAt":"2023-04-25T19:11:44.456Z","updatedAt":"2023-04-25T19:11:44.456Z","__v":0}] {"timestamp":"2023-04-25T19:31:26.497Z"}
+info: seller-products.route.js [sellerProductsDeleteManyRoute] entered {"timestamp":"2023-04-25T19:31:27.655Z"}
+info: seller-products.route.js [isSellerProductsDeleteManyIsValid] entered {"timestamp":"2023-04-25T19:31:27.655Z"}
+info: seller-products.service.js [sellerProductsDeleteManyService] entered {"timestamp":"2023-04-25T19:31:27.656Z"}
+info: seller-products.repository.js [sellerProductsDeleteManyRepository] entered, data: [{"ASIN":"test0001","Locale":"test0001"}] {"timestamp":"2023-04-25T19:31:27.656Z"}
+info: seller-products.service.js [sellerProductsDeleteManyService] repositoryRes: {"acknowledged":true,"deletedCount":1} {"timestamp":"2023-04-25T19:31:27.658Z"}
+info: seller-products.route.js [sellerProductsReadAllBySellerNameRoute] entered {"timestamp":"2023-04-25T19:31:28.232Z"}
+info: seller-products.service.js [sellerProductsReadAllBySellerNameService] entered {"timestamp":"2023-04-25T19:31:28.232Z"}
+info: seller-products.repository.js [sellerProductsReadAllBySellerNameRepository] entered, data: {"Seller_name":"chen"} {"timestamp":"2023-04-25T19:31:28.233Z"}
+info: seller-products.repository.js [sellerProductsReadAllBySellerNameRepository] condition: {"Seller_name":"chen"} {"timestamp":"2023-04-25T19:31:28.233Z"}
+info: seller-products.service.js [sellerProductsReadAllBySellerNameService] repositoryRes: [{"_id":"644825a6d5f901eae0ba9766","ASIN":"test1111","Locale":"test1111","Seller_name":"chen","Availability":true,"Price":0,"Product_name":"test","Product_link":"test","createdAt":"2023-04-25T19:10:30.541Z","updatedAt":"2023-04-25T19:10:30.541Z","__v":0},{"_id":"644825aad5f901eae0ba9769","ASIN":"test11111","Locale":"test11111","Seller_name":"chen","Availability":false,"Price":0,"Product_name":"test","Product_link":"test","createdAt":"2023-04-25T19:10:34.942Z","updatedAt":"2023-04-25T19:10:34.942Z","__v":0},{"_id":"644825f0d5f901eae0ba976d","ASIN":"test111111","Locale":"test111111","Seller_name":"chen","Availability":false,"Price":0,"Product_name":"test","Product_link":"test","createdAt":"2023-04-25T19:11:44.456Z","updatedAt":"2023-04-25T19:11:44.456Z","__v":0}] {"timestamp":"2023-04-25T19:31:28.235Z"}
+info: seller-products.route.js [sellerProductsReadAllBySellerNameRoute] entered {"timestamp":"2023-04-25T19:42:01.959Z"}
+info: seller-products.service.js [sellerProductsReadAllBySellerNameService] entered {"timestamp":"2023-04-25T19:42:01.959Z"}
+info: seller-products.repository.js [sellerProductsReadAllBySellerNameRepository] entered, data: {"Seller_name":"chen"} {"timestamp":"2023-04-25T19:42:01.960Z"}
+info: seller-products.repository.js [sellerProductsReadAllBySellerNameRepository] condition: {"Seller_name":"chen"} {"timestamp":"2023-04-25T19:42:01.960Z"}
+info: seller-products.service.js [sellerProductsReadAllBySellerNameService] repositoryRes: [{"_id":"644825a6d5f901eae0ba9766","ASIN":"test1111","Locale":"test1111","Seller_name":"chen","Availability":true,"Price":0,"Product_name":"test","Product_link":"test","createdAt":"2023-04-25T19:10:30.541Z","updatedAt":"2023-04-25T19:10:30.541Z","__v":0},{"_id":"644825aad5f901eae0ba9769","ASIN":"test11111","Locale":"test11111","Seller_name":"chen","Availability":false,"Price":0,"Product_name":"test","Product_link":"test","createdAt":"2023-04-25T19:10:34.942Z","updatedAt":"2023-04-25T19:10:34.942Z","__v":0},{"_id":"644825f0d5f901eae0ba976d","ASIN":"test111111","Locale":"test111111","Seller_name":"chen","Availability":false,"Price":0,"Product_name":"test","Product_link":"test","createdAt":"2023-04-25T19:11:44.456Z","updatedAt":"2023-04-25T19:11:44.456Z","__v":0}] {"timestamp":"2023-04-25T19:42:01.972Z"}
+info: seller-products.route.js [sellerProductsDeleteManyRoute] entered {"timestamp":"2023-04-25T19:42:03.154Z"}
+info: seller-products.route.js [isSellerProductsDeleteManyIsValid] entered {"timestamp":"2023-04-25T19:42:03.154Z"}
+info: seller-products.service.js [sellerProductsDeleteManyService] entered {"timestamp":"2023-04-25T19:42:03.155Z"}
+info: seller-products.repository.js [sellerProductsDeleteManyRepository] entered, data: [{"ASIN":"test11111","Locale":"test11111"}] {"timestamp":"2023-04-25T19:42:03.155Z"}
+info: seller-products.service.js [sellerProductsDeleteManyService] repositoryRes: {"acknowledged":true,"deletedCount":1} {"timestamp":"2023-04-25T19:42:03.158Z"}
+info: seller-products.route.js [sellerProductsDeleteManyRoute] entered {"timestamp":"2023-04-25T19:42:14.141Z"}
+info: seller-products.route.js [isSellerProductsDeleteManyIsValid] entered {"timestamp":"2023-04-25T19:42:14.141Z"}
+info: seller-products.service.js [sellerProductsDeleteManyService] entered {"timestamp":"2023-04-25T19:42:14.142Z"}
+info: seller-products.repository.js [sellerProductsDeleteManyRepository] entered, data: [{"ASIN":"test111111","Locale":"test111111"}] {"timestamp":"2023-04-25T19:42:14.142Z"}
+info: seller-products.service.js [sellerProductsDeleteManyService] repositoryRes: {"acknowledged":true,"deletedCount":1} {"timestamp":"2023-04-25T19:42:14.143Z"}
+info: seller-products.route.js [sellerProductsDeleteManyRoute] entered {"timestamp":"2023-04-25T19:42:23.550Z"}
+info: seller-products.route.js [isSellerProductsDeleteManyIsValid] entered {"timestamp":"2023-04-25T19:42:23.551Z"}
+info: seller-products.service.js [sellerProductsDeleteManyService] entered {"timestamp":"2023-04-25T19:42:23.551Z"}
+info: seller-products.repository.js [sellerProductsDeleteManyRepository] entered, data: [{"ASIN":"test111111","Locale":"test111111"}] {"timestamp":"2023-04-25T19:42:23.552Z"}
+info: seller-products.service.js [sellerProductsDeleteManyService] repositoryRes: {"acknowledged":true,"deletedCount":0} {"timestamp":"2023-04-25T19:42:23.553Z"}
+error: seller-products.service.js [sellerProductsDeleteManyService] MONGODB result: deletedCount is 0, products not found. {"timestamp":"2023-04-25T19:42:23.554Z"}
+info: seller-products.route.js [sellerProductsDeleteManyRoute] entered {"timestamp":"2023-04-25T19:42:25.278Z"}
+info: seller-products.route.js [isSellerProductsDeleteManyIsValid] entered {"timestamp":"2023-04-25T19:42:25.279Z"}
+info: seller-products.service.js [sellerProductsDeleteManyService] entered {"timestamp":"2023-04-25T19:42:25.279Z"}
+info: seller-products.repository.js [sellerProductsDeleteManyRepository] entered, data: [{"ASIN":"test111111","Locale":"test111111"}] {"timestamp":"2023-04-25T19:42:25.280Z"}
+info: seller-products.service.js [sellerProductsDeleteManyService] repositoryRes: {"acknowledged":true,"deletedCount":0} {"timestamp":"2023-04-25T19:42:25.282Z"}
+error: seller-products.service.js [sellerProductsDeleteManyService] MONGODB result: deletedCount is 0, products not found. {"timestamp":"2023-04-25T19:42:25.282Z"}
+info: seller-products.route.js [sellerProductsDeleteManyRoute] entered {"timestamp":"2023-04-25T19:43:11.462Z"}
+info: seller-products.route.js [isSellerProductsDeleteManyIsValid] entered {"timestamp":"2023-04-25T19:43:11.462Z"}
+info: seller-products.service.js [sellerProductsDeleteManyService] entered {"timestamp":"2023-04-25T19:43:11.463Z"}
+info: seller-products.repository.js [sellerProductsDeleteManyRepository] entered, data: [{"ASIN":"test11111","Locale":"test11111"}] {"timestamp":"2023-04-25T19:43:11.464Z"}
+info: seller-products.service.js [sellerProductsDeleteManyService] repositoryRes: {"acknowledged":true,"deletedCount":0} {"timestamp":"2023-04-25T19:43:11.466Z"}
+error: seller-products.service.js [sellerProductsDeleteManyService] MONGODB result: deletedCount is 0, products not found. {"timestamp":"2023-04-25T19:43:11.467Z"}
+info: seller-products.route.js [sellerProductsDeleteManyRoute] entered {"timestamp":"2023-04-25T19:43:12.332Z"}
+info: seller-products.route.js [isSellerProductsDeleteManyIsValid] entered {"timestamp":"2023-04-25T19:43:12.332Z"}
+info: seller-products.service.js [sellerProductsDeleteManyService] entered {"timestamp":"2023-04-25T19:43:12.332Z"}
+info: seller-products.repository.js [sellerProductsDeleteManyRepository] entered, data: [{"ASIN":"test1111","Locale":"test1111"}] {"timestamp":"2023-04-25T19:43:12.333Z"}
+info: seller-products.service.js [sellerProductsDeleteManyService] repositoryRes: {"acknowledged":true,"deletedCount":1} {"timestamp":"2023-04-25T19:43:12.335Z"}
+info: seller-products.route.js [sellerProductsReadAllBySellerNameRoute] entered {"timestamp":"2023-04-25T19:43:15.189Z"}
+info: seller-products.service.js [sellerProductsReadAllBySellerNameService] entered {"timestamp":"2023-04-25T19:43:15.189Z"}
+info: seller-products.repository.js [sellerProductsReadAllBySellerNameRepository] entered, data: {"Seller_name":"chen"} {"timestamp":"2023-04-25T19:43:15.189Z"}
+info: seller-products.repository.js [sellerProductsReadAllBySellerNameRepository] condition: {"Seller_name":"chen"} {"timestamp":"2023-04-25T19:43:15.190Z"}
+info: seller-products.service.js [sellerProductsReadAllBySellerNameService] repositoryRes: [] {"timestamp":"2023-04-25T19:43:15.191Z"}
+info: seller-products.route.js [sellerProductsCreate] entered {"timestamp":"2023-04-25T19:43:21.295Z"}
+info: seller-products.route.js [isSellerProductsCreateUpdateIsValid] entered {"timestamp":"2023-04-25T19:43:21.296Z"}
+info: seller-products.service.js [sellerProductsCreateService] entered {"timestamp":"2023-04-25T19:43:21.296Z"}
+info: seller-products.repository.js [sellerProductsReadRepository] entered, data: {"ASIN":"chen","Locale":"chen","Seller_name":"chen","Availability":false,"Price":0,"Product_name":"chen","Product_link":"chen"} {"timestamp":"2023-04-25T19:43:21.297Z"}
+info: seller-products.repository.js [sellerProductsCreateRepository] entered, data: {"ASIN":"chen","Locale":"chen","Seller_name":"chen","Availability":false,"Price":0,"Product_name":"chen","Product_link":"chen"} {"timestamp":"2023-04-25T19:43:21.300Z"}
+info: seller-products.service.js [sellerProductsCreateService] repositoryRes: {"ASIN":"chen","Locale":"chen","Seller_name":"chen","Availability":false,"Price":0,"Product_name":"chen","Product_link":"chen","_id":"64482d595fc0c8ab86f8d8a5","createdAt":"2023-04-25T19:43:21.308Z","updatedAt":"2023-04-25T19:43:21.308Z","__v":0} {"timestamp":"2023-04-25T19:43:21.315Z"}
+info: seller-products.route.js [sellerProductsReadAllBySellerNameRoute] entered {"timestamp":"2023-04-25T19:43:22.624Z"}
+info: seller-products.service.js [sellerProductsReadAllBySellerNameService] entered {"timestamp":"2023-04-25T19:43:22.624Z"}
+info: seller-products.repository.js [sellerProductsReadAllBySellerNameRepository] entered, data: {"Seller_name":"chen"} {"timestamp":"2023-04-25T19:43:22.626Z"}
+info: seller-products.repository.js [sellerProductsReadAllBySellerNameRepository] condition: {"Seller_name":"chen"} {"timestamp":"2023-04-25T19:43:22.626Z"}
+info: seller-products.service.js [sellerProductsReadAllBySellerNameService] repositoryRes: [{"_id":"64482d595fc0c8ab86f8d8a5","ASIN":"chen","Locale":"chen","Seller_name":"chen","Availability":false,"Price":0,"Product_name":"chen","Product_link":"chen","createdAt":"2023-04-25T19:43:21.308Z","updatedAt":"2023-04-25T19:43:21.308Z","__v":0}] {"timestamp":"2023-04-25T19:43:22.628Z"}
+info: seller-products.route.js [sellerProductsCreate] entered {"timestamp":"2023-04-25T19:43:25.041Z"}
+info: seller-products.route.js [isSellerProductsCreateUpdateIsValid] entered {"timestamp":"2023-04-25T19:43:25.042Z"}
+info: seller-products.service.js [sellerProductsCreateService] entered {"timestamp":"2023-04-25T19:43:25.042Z"}
+info: seller-products.repository.js [sellerProductsReadRepository] entered, data: {"ASIN":"chen1","Locale":"chen1","Seller_name":"chen","Availability":false,"Price":0,"Product_name":"chen","Product_link":"chen"} {"timestamp":"2023-04-25T19:43:25.043Z"}
+info: seller-products.repository.js [sellerProductsCreateRepository] entered, data: {"ASIN":"chen1","Locale":"chen1","Seller_name":"chen","Availability":false,"Price":0,"Product_name":"chen","Product_link":"chen"} {"timestamp":"2023-04-25T19:43:25.045Z"}
+info: seller-products.service.js [sellerProductsCreateService] repositoryRes: {"ASIN":"chen1","Locale":"chen1","Seller_name":"chen","Availability":false,"Price":0,"Product_name":"chen","Product_link":"chen","_id":"64482d5d5fc0c8ab86f8d8a9","createdAt":"2023-04-25T19:43:25.045Z","updatedAt":"2023-04-25T19:43:25.045Z","__v":0} {"timestamp":"2023-04-25T19:43:25.047Z"}
+info: seller-products.route.js [sellerProductsCreate] entered {"timestamp":"2023-04-25T19:43:26.804Z"}
+info: seller-products.route.js [isSellerProductsCreateUpdateIsValid] entered {"timestamp":"2023-04-25T19:43:26.804Z"}
+info: seller-products.service.js [sellerProductsCreateService] entered {"timestamp":"2023-04-25T19:43:26.805Z"}
+info: seller-products.repository.js [sellerProductsReadRepository] entered, data: {"ASIN":"chen12","Locale":"chen12","Seller_name":"chen","Availability":false,"Price":0,"Product_name":"chen","Product_link":"chen"} {"timestamp":"2023-04-25T19:43:26.806Z"}
+info: seller-products.repository.js [sellerProductsCreateRepository] entered, data: {"ASIN":"chen12","Locale":"chen12","Seller_name":"chen","Availability":false,"Price":0,"Product_name":"chen","Product_link":"chen"} {"timestamp":"2023-04-25T19:43:26.809Z"}
+info: seller-products.service.js [sellerProductsCreateService] repositoryRes: {"ASIN":"chen12","Locale":"chen12","Seller_name":"chen","Availability":false,"Price":0,"Product_name":"chen","Product_link":"chen","_id":"64482d5e5fc0c8ab86f8d8ac","createdAt":"2023-04-25T19:43:26.810Z","updatedAt":"2023-04-25T19:43:26.810Z","__v":0} {"timestamp":"2023-04-25T19:43:26.811Z"}
+info: seller-products.route.js [sellerProductsCreate] entered {"timestamp":"2023-04-25T19:43:28.434Z"}
+info: seller-products.route.js [isSellerProductsCreateUpdateIsValid] entered {"timestamp":"2023-04-25T19:43:28.434Z"}
+info: seller-products.service.js [sellerProductsCreateService] entered {"timestamp":"2023-04-25T19:43:28.435Z"}
+info: seller-products.repository.js [sellerProductsReadRepository] entered, data: {"ASIN":"chen123","Locale":"chen123","Seller_name":"chen","Availability":false,"Price":0,"Product_name":"chen","Product_link":"chen"} {"timestamp":"2023-04-25T19:43:28.435Z"}
+info: seller-products.repository.js [sellerProductsCreateRepository] entered, data: {"ASIN":"chen123","Locale":"chen123","Seller_name":"chen","Availability":false,"Price":0,"Product_name":"chen","Product_link":"chen"} {"timestamp":"2023-04-25T19:43:28.437Z"}
+info: seller-products.service.js [sellerProductsCreateService] repositoryRes: {"ASIN":"chen123","Locale":"chen123","Seller_name":"chen","Availability":false,"Price":0,"Product_name":"chen","Product_link":"chen","_id":"64482d605fc0c8ab86f8d8af","createdAt":"2023-04-25T19:43:28.438Z","updatedAt":"2023-04-25T19:43:28.438Z","__v":0} {"timestamp":"2023-04-25T19:43:28.439Z"}
+info: seller-products.route.js [sellerProductsCreate] entered {"timestamp":"2023-04-25T19:43:29.912Z"}
+info: seller-products.route.js [isSellerProductsCreateUpdateIsValid] entered {"timestamp":"2023-04-25T19:43:29.913Z"}
+info: seller-products.service.js [sellerProductsCreateService] entered {"timestamp":"2023-04-25T19:43:29.914Z"}
+info: seller-products.repository.js [sellerProductsReadRepository] entered, data: {"ASIN":"chen1234","Locale":"chen1234","Seller_name":"chen","Availability":false,"Price":0,"Product_name":"chen","Product_link":"chen"} {"timestamp":"2023-04-25T19:43:29.914Z"}
+info: seller-products.repository.js [sellerProductsCreateRepository] entered, data: {"ASIN":"chen1234","Locale":"chen1234","Seller_name":"chen","Availability":false,"Price":0,"Product_name":"chen","Product_link":"chen"} {"timestamp":"2023-04-25T19:43:29.916Z"}
+info: seller-products.service.js [sellerProductsCreateService] repositoryRes: {"ASIN":"chen1234","Locale":"chen1234","Seller_name":"chen","Availability":false,"Price":0,"Product_name":"chen","Product_link":"chen","_id":"64482d615fc0c8ab86f8d8b2","createdAt":"2023-04-25T19:43:29.917Z","updatedAt":"2023-04-25T19:43:29.917Z","__v":0} {"timestamp":"2023-04-25T19:43:29.919Z"}
+info: seller-products.route.js [sellerProductsCreate] entered {"timestamp":"2023-04-25T19:43:31.424Z"}
+info: seller-products.route.js [isSellerProductsCreateUpdateIsValid] entered {"timestamp":"2023-04-25T19:43:31.424Z"}
+info: seller-products.service.js [sellerProductsCreateService] entered {"timestamp":"2023-04-25T19:43:31.425Z"}
+info: seller-products.repository.js [sellerProductsReadRepository] entered, data: {"ASIN":"chen12345","Locale":"chen12345","Seller_name":"chen","Availability":false,"Price":0,"Product_name":"chen","Product_link":"chen"} {"timestamp":"2023-04-25T19:43:31.426Z"}
+info: seller-products.repository.js [sellerProductsCreateRepository] entered, data: {"ASIN":"chen12345","Locale":"chen12345","Seller_name":"chen","Availability":false,"Price":0,"Product_name":"chen","Product_link":"chen"} {"timestamp":"2023-04-25T19:43:31.428Z"}
+info: seller-products.service.js [sellerProductsCreateService] repositoryRes: {"ASIN":"chen12345","Locale":"chen12345","Seller_name":"chen","Availability":false,"Price":0,"Product_name":"chen","Product_link":"chen","_id":"64482d635fc0c8ab86f8d8b5","createdAt":"2023-04-25T19:43:31.429Z","updatedAt":"2023-04-25T19:43:31.429Z","__v":0} {"timestamp":"2023-04-25T19:43:31.430Z"}
+info: seller-products.route.js [sellerProductsReadAllBySellerNameRoute] entered {"timestamp":"2023-04-25T19:43:32.098Z"}
+info: seller-products.service.js [sellerProductsReadAllBySellerNameService] entered {"timestamp":"2023-04-25T19:43:32.099Z"}
+info: seller-products.repository.js [sellerProductsReadAllBySellerNameRepository] entered, data: {"Seller_name":"chen"} {"timestamp":"2023-04-25T19:43:32.100Z"}
+info: seller-products.repository.js [sellerProductsReadAllBySellerNameRepository] condition: {"Seller_name":"chen"} {"timestamp":"2023-04-25T19:43:32.100Z"}
+info: seller-products.service.js [sellerProductsReadAllBySellerNameService] repositoryRes: [{"_id":"64482d595fc0c8ab86f8d8a5","ASIN":"chen","Locale":"chen","Seller_name":"chen","Availability":false,"Price":0,"Product_name":"chen","Product_link":"chen","createdAt":"2023-04-25T19:43:21.308Z","updatedAt":"2023-04-25T19:43:21.308Z","__v":0},{"_id":"64482d5d5fc0c8ab86f8d8a9","ASIN":"chen1","Locale":"chen1","Seller_name":"chen","Availability":false,"Price":0,"Product_name":"chen","Product_link":"chen","createdAt":"2023-04-25T19:43:25.045Z","updatedAt":"2023-04-25T19:43:25.045Z","__v":0},{"_id":"64482d5e5fc0c8ab86f8d8ac","ASIN":"chen12","Locale":"chen12","Seller_name":"chen","Availability":false,"Price":0,"Product_name":"chen","Product_link":"chen","createdAt":"2023-04-25T19:43:26.810Z","updatedAt":"2023-04-25T19:43:26.810Z","__v":0},{"_id":"64482d605fc0c8ab86f8d8af","ASIN":"chen123","Locale":"chen123","Seller_name":"chen","Availability":false,"Price":0,"Product_name":"chen","Product_link":"chen","createdAt":"2023-04-25T19:43:28.438Z","updatedAt":"2023-04-25T19:43:28.438Z","__v":0},{"_id":"64482d615fc0c8ab86f8d8b2","ASIN":"chen1234","Locale":"chen1234","Seller_name":"chen","Availability":false,"Price":0,"Product_name":"chen","Product_link":"chen","createdAt":"2023-04-25T19:43:29.917Z","updatedAt":"2023-04-25T19:43:29.917Z","__v":0},{"_id":"64482d635fc0c8ab86f8d8b5","ASIN":"chen12345","Locale":"chen12345","Seller_name":"chen","Availability":false,"Price":0,"Product_name":"chen","Product_link":"chen","createdAt":"2023-04-25T19:43:31.429Z","updatedAt":"2023-04-25T19:43:31.429Z","__v":0}] {"timestamp":"2023-04-25T19:43:32.103Z"}
+info: seller-products.route.js [sellerProductsDeleteManyRoute] entered {"timestamp":"2023-04-25T19:43:33.547Z"}
+info: seller-products.route.js [isSellerProductsDeleteManyIsValid] entered {"timestamp":"2023-04-25T19:43:33.548Z"}
+info: seller-products.service.js [sellerProductsDeleteManyService] entered {"timestamp":"2023-04-25T19:43:33.548Z"}
+info: seller-products.repository.js [sellerProductsDeleteManyRepository] entered, data: [{"ASIN":"chen","Locale":"chen"}] {"timestamp":"2023-04-25T19:43:33.548Z"}
+info: seller-products.service.js [sellerProductsDeleteManyService] repositoryRes: {"acknowledged":true,"deletedCount":1} {"timestamp":"2023-04-25T19:43:33.550Z"}
+info: seller-products.route.js [sellerProductsReadAllBySellerNameRoute] entered {"timestamp":"2023-04-25T19:45:33.648Z"}
+info: seller-products.service.js [sellerProductsReadAllBySellerNameService] entered {"timestamp":"2023-04-25T19:45:33.652Z"}
+info: seller-products.repository.js [sellerProductsReadAllBySellerNameRepository] entered, data: {"Seller_name":"chen"} {"timestamp":"2023-04-25T19:45:33.652Z"}
+info: seller-products.repository.js [sellerProductsReadAllBySellerNameRepository] condition: {"Seller_name":"chen"} {"timestamp":"2023-04-25T19:45:33.653Z"}
+info: seller-products.service.js [sellerProductsReadAllBySellerNameService] repositoryRes: [{"_id":"64482d5d5fc0c8ab86f8d8a9","ASIN":"chen1","Locale":"chen1","Seller_name":"chen","Availability":false,"Price":0,"Product_name":"chen","Product_link":"chen","createdAt":"2023-04-25T19:43:25.045Z","updatedAt":"2023-04-25T19:43:25.045Z","__v":0},{"_id":"64482d5e5fc0c8ab86f8d8ac","ASIN":"chen12","Locale":"chen12","Seller_name":"chen","Availability":false,"Price":0,"Product_name":"chen","Product_link":"chen","createdAt":"2023-04-25T19:43:26.810Z","updatedAt":"2023-04-25T19:43:26.810Z","__v":0},{"_id":"64482d605fc0c8ab86f8d8af","ASIN":"chen123","Locale":"chen123","Seller_name":"chen","Availability":false,"Price":0,"Product_name":"chen","Product_link":"chen","createdAt":"2023-04-25T19:43:28.438Z","updatedAt":"2023-04-25T19:43:28.438Z","__v":0},{"_id":"64482d615fc0c8ab86f8d8b2","ASIN":"chen1234","Locale":"chen1234","Seller_name":"chen","Availability":false,"Price":0,"Product_name":"chen","Product_link":"chen","createdAt":"2023-04-25T19:43:29.917Z","updatedAt":"2023-04-25T19:43:29.917Z","__v":0},{"_id":"64482d635fc0c8ab86f8d8b5","ASIN":"chen12345","Locale":"chen12345","Seller_name":"chen","Availability":false,"Price":0,"Product_name":"chen","Product_link":"chen","createdAt":"2023-04-25T19:43:31.429Z","updatedAt":"2023-04-25T19:43:31.429Z","__v":0}] {"timestamp":"2023-04-25T19:45:33.665Z"}
+info: seller-products.route.js [sellerProductsDeleteManyRoute] entered {"timestamp":"2023-04-25T19:45:34.913Z"}
+info: seller-products.route.js [isSellerProductsDeleteManyIsValid] entered {"timestamp":"2023-04-25T19:45:34.914Z"}
+info: seller-products.service.js [sellerProductsDeleteManyService] entered {"timestamp":"2023-04-25T19:45:34.914Z"}
+info: seller-products.repository.js [sellerProductsDeleteManyRepository] entered, data: [{"ASIN":"chen1","Locale":"chen1"}] {"timestamp":"2023-04-25T19:45:34.915Z"}
+info: seller-products.service.js [sellerProductsDeleteManyService] repositoryRes: {"acknowledged":true,"deletedCount":1} {"timestamp":"2023-04-25T19:45:34.917Z"}
+info: seller-products.route.js [sellerProductsReadAllBySellerNameRoute] entered {"timestamp":"2023-04-25T19:46:16.447Z"}
+info: seller-products.service.js [sellerProductsReadAllBySellerNameService] entered {"timestamp":"2023-04-25T19:46:16.448Z"}
+info: seller-products.repository.js [sellerProductsReadAllBySellerNameRepository] entered, data: {"Seller_name":"chen"} {"timestamp":"2023-04-25T19:46:16.448Z"}
+info: seller-products.repository.js [sellerProductsReadAllBySellerNameRepository] condition: {"Seller_name":"chen"} {"timestamp":"2023-04-25T19:46:16.448Z"}
+info: seller-products.service.js [sellerProductsReadAllBySellerNameService] repositoryRes: [{"_id":"64482d5e5fc0c8ab86f8d8ac","ASIN":"chen12","Locale":"chen12","Seller_name":"chen","Availability":false,"Price":0,"Product_name":"chen","Product_link":"chen","createdAt":"2023-04-25T19:43:26.810Z","updatedAt":"2023-04-25T19:43:26.810Z","__v":0},{"_id":"64482d605fc0c8ab86f8d8af","ASIN":"chen123","Locale":"chen123","Seller_name":"chen","Availability":false,"Price":0,"Product_name":"chen","Product_link":"chen","createdAt":"2023-04-25T19:43:28.438Z","updatedAt":"2023-04-25T19:43:28.438Z","__v":0},{"_id":"64482d615fc0c8ab86f8d8b2","ASIN":"chen1234","Locale":"chen1234","Seller_name":"chen","Availability":false,"Price":0,"Product_name":"chen","Product_link":"chen","createdAt":"2023-04-25T19:43:29.917Z","updatedAt":"2023-04-25T19:43:29.917Z","__v":0},{"_id":"64482d635fc0c8ab86f8d8b5","ASIN":"chen12345","Locale":"chen12345","Seller_name":"chen","Availability":false,"Price":0,"Product_name":"chen","Product_link":"chen","createdAt":"2023-04-25T19:43:31.429Z","updatedAt":"2023-04-25T19:43:31.429Z","__v":0}] {"timestamp":"2023-04-25T19:46:16.464Z"}
+info: seller-products.route.js [sellerProductsDeleteManyRoute] entered {"timestamp":"2023-04-25T19:46:17.121Z"}
+info: seller-products.route.js [isSellerProductsDeleteManyIsValid] entered {"timestamp":"2023-04-25T19:46:17.121Z"}
+info: seller-products.service.js [sellerProductsDeleteManyService] entered {"timestamp":"2023-04-25T19:46:17.122Z"}
+info: seller-products.repository.js [sellerProductsDeleteManyRepository] entered, data: [{"ASIN":"chen12","Locale":"chen12"}] {"timestamp":"2023-04-25T19:46:17.122Z"}
+info: seller-products.service.js [sellerProductsDeleteManyService] repositoryRes: {"acknowledged":true,"deletedCount":1} {"timestamp":"2023-04-25T19:46:17.125Z"}
+info: seller-products.route.js [sellerProductsReadAllBySellerNameRoute] entered {"timestamp":"2023-04-25T19:48:14.942Z"}
+info: seller-products.service.js [sellerProductsReadAllBySellerNameService] entered {"timestamp":"2023-04-25T19:48:14.943Z"}
+info: seller-products.repository.js [sellerProductsReadAllBySellerNameRepository] entered, data: {"Seller_name":"chen"} {"timestamp":"2023-04-25T19:48:14.944Z"}
+info: seller-products.repository.js [sellerProductsReadAllBySellerNameRepository] condition: {"Seller_name":"chen"} {"timestamp":"2023-04-25T19:48:14.945Z"}
+info: seller-products.service.js [sellerProductsReadAllBySellerNameService] repositoryRes: [{"_id":"64482d605fc0c8ab86f8d8af","ASIN":"chen123","Locale":"chen123","Seller_name":"chen","Availability":false,"Price":0,"Product_name":"chen","Product_link":"chen","createdAt":"2023-04-25T19:43:28.438Z","updatedAt":"2023-04-25T19:43:28.438Z","__v":0},{"_id":"64482d615fc0c8ab86f8d8b2","ASIN":"chen1234","Locale":"chen1234","Seller_name":"chen","Availability":false,"Price":0,"Product_name":"chen","Product_link":"chen","createdAt":"2023-04-25T19:43:29.917Z","updatedAt":"2023-04-25T19:43:29.917Z","__v":0},{"_id":"64482d635fc0c8ab86f8d8b5","ASIN":"chen12345","Locale":"chen12345","Seller_name":"chen","Availability":false,"Price":0,"Product_name":"chen","Product_link":"chen","createdAt":"2023-04-25T19:43:31.429Z","updatedAt":"2023-04-25T19:43:31.429Z","__v":0}] {"timestamp":"2023-04-25T19:48:14.961Z"}
+info: seller-products.route.js [sellerProductsDeleteManyRoute] entered {"timestamp":"2023-04-25T19:48:15.792Z"}
+info: seller-products.route.js [isSellerProductsDeleteManyIsValid] entered {"timestamp":"2023-04-25T19:48:15.793Z"}
+info: seller-products.service.js [sellerProductsDeleteManyService] entered {"timestamp":"2023-04-25T19:48:15.793Z"}
+info: seller-products.repository.js [sellerProductsDeleteManyRepository] entered, data: [{"ASIN":"chen123","Locale":"chen123"}] {"timestamp":"2023-04-25T19:48:15.794Z"}
+info: seller-products.service.js [sellerProductsDeleteManyService] repositoryRes: {"acknowledged":true,"deletedCount":1} {"timestamp":"2023-04-25T19:48:15.796Z"}
+info: seller-products.route.js [sellerProductsReadAllBySellerNameRoute] entered {"timestamp":"2023-04-25T19:48:34.681Z"}
+info: seller-products.service.js [sellerProductsReadAllBySellerNameService] entered {"timestamp":"2023-04-25T19:48:34.682Z"}
+info: seller-products.repository.js [sellerProductsReadAllBySellerNameRepository] entered, data: {"Seller_name":"chen"} {"timestamp":"2023-04-25T19:48:34.682Z"}
+info: seller-products.repository.js [sellerProductsReadAllBySellerNameRepository] condition: {"Seller_name":"chen"} {"timestamp":"2023-04-25T19:48:34.683Z"}
+info: seller-products.service.js [sellerProductsReadAllBySellerNameService] repositoryRes: [{"_id":"64482d615fc0c8ab86f8d8b2","ASIN":"chen1234","Locale":"chen1234","Seller_name":"chen","Availability":false,"Price":0,"Product_name":"chen","Product_link":"chen","createdAt":"2023-04-25T19:43:29.917Z","updatedAt":"2023-04-25T19:43:29.917Z","__v":0},{"_id":"64482d635fc0c8ab86f8d8b5","ASIN":"chen12345","Locale":"chen12345","Seller_name":"chen","Availability":false,"Price":0,"Product_name":"chen","Product_link":"chen","createdAt":"2023-04-25T19:43:31.429Z","updatedAt":"2023-04-25T19:43:31.429Z","__v":0}] {"timestamp":"2023-04-25T19:48:34.694Z"}
+info: seller-products.route.js [sellerProductsReadAllBySellerNameRoute] entered {"timestamp":"2023-04-25T19:48:39.554Z"}
+info: seller-products.service.js [sellerProductsReadAllBySellerNameService] entered {"timestamp":"2023-04-25T19:48:39.555Z"}
+info: seller-products.repository.js [sellerProductsReadAllBySellerNameRepository] entered, data: {"Seller_name":"chen"} {"timestamp":"2023-04-25T19:48:39.555Z"}
+info: seller-products.repository.js [sellerProductsReadAllBySellerNameRepository] condition: {"Seller_name":"chen"} {"timestamp":"2023-04-25T19:48:39.556Z"}
+info: seller-products.service.js [sellerProductsReadAllBySellerNameService] repositoryRes: [{"_id":"64482d615fc0c8ab86f8d8b2","ASIN":"chen1234","Locale":"chen1234","Seller_name":"chen","Availability":false,"Price":0,"Product_name":"chen","Product_link":"chen","createdAt":"2023-04-25T19:43:29.917Z","updatedAt":"2023-04-25T19:43:29.917Z","__v":0},{"_id":"64482d635fc0c8ab86f8d8b5","ASIN":"chen12345","Locale":"chen12345","Seller_name":"chen","Availability":false,"Price":0,"Product_name":"chen","Product_link":"chen","createdAt":"2023-04-25T19:43:31.429Z","updatedAt":"2023-04-25T19:43:31.429Z","__v":0}] {"timestamp":"2023-04-25T19:48:39.558Z"}
+info: seller-products.route.js [sellerProductsDeleteManyRoute] entered {"timestamp":"2023-04-25T19:48:40.068Z"}
+info: seller-products.route.js [isSellerProductsDeleteManyIsValid] entered {"timestamp":"2023-04-25T19:48:40.068Z"}
+info: seller-products.service.js [sellerProductsDeleteManyService] entered {"timestamp":"2023-04-25T19:48:40.069Z"}
+info: seller-products.repository.js [sellerProductsDeleteManyRepository] entered, data: [{"ASIN":"chen1234","Locale":"chen1234"}] {"timestamp":"2023-04-25T19:48:40.070Z"}
+info: seller-products.service.js [sellerProductsDeleteManyService] repositoryRes: {"acknowledged":true,"deletedCount":1} {"timestamp":"2023-04-25T19:48:40.072Z"}
+info: seller-products.route.js [sellerProductsDeleteManyRoute] entered {"timestamp":"2023-04-25T19:48:40.944Z"}
+info: seller-products.route.js [isSellerProductsDeleteManyIsValid] entered {"timestamp":"2023-04-25T19:48:40.945Z"}
+info: seller-products.service.js [sellerProductsDeleteManyService] entered {"timestamp":"2023-04-25T19:48:40.945Z"}
+info: seller-products.repository.js [sellerProductsDeleteManyRepository] entered, data: [{"ASIN":"chen12345","Locale":"chen12345"}] {"timestamp":"2023-04-25T19:48:40.946Z"}
+info: seller-products.service.js [sellerProductsDeleteManyService] repositoryRes: {"acknowledged":true,"deletedCount":1} {"timestamp":"2023-04-25T19:48:40.948Z"}

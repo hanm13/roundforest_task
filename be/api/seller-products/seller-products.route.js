@@ -26,7 +26,12 @@ async function sellerProductsCreateRoute(req, res) {
 
     const serviceRes = await sellerProductsCreateService(req);
 
-    if(serviceRes){
+    if(serviceRes && serviceRes.alreadyCreated){
+      res.status(409).send({status:409, data:null});
+      return;
+    }
+
+    if(serviceRes && !serviceRes.alreadyCreated){
       res.status(200).send({status:200, data:serviceRes});
     }else{
       res.status(500).send({status:500, data:null});
@@ -46,12 +51,12 @@ const isSellerProductsCreateUpdateIsValid = (data)=>{
   try{
     if(!data){return false;}
 
-    const requiredFields = ["ASIN","Locale", "Seller_name","Availability","Price", "Product_name","Product_link"];
+    const requiredFields = ["ASIN","Locale", "Seller_name", "Product_name","Product_link"];
     const missingFields = [];
   
     for (let index = 0; index < requiredFields.length; index++) {
       const requiredFieldKey = requiredFields[index];
-      if(!data[requiredFieldKey]){
+      if(!data[requiredFieldKey]) {
         missingFields.push(requiredFieldKey);
       }
     }
