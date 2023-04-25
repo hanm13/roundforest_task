@@ -2,7 +2,7 @@ const packageJsonFile = require('./package.json');
 
 module.exports = {
   /// GENERAL
-  SERVICE_NAME: 'dogmasters.services.home',
+  SERVICE_NAME: 'task.services.home',
   PORT: process.env.PORT || 3001,
   NODE_ENV: process.env.NODE_ENV || 'dev',
   BASE_API_PATH: '/api/v1/',

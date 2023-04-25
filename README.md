@@ -1,5 +1,7 @@
  # Roundforest mid-level fullstack task
 
+ ![picture](./images/products.PNG)
+
 ## Using BFF (Backend for front-end) & Next.JS + webpack
 ## Style by Material-UI
 
@@ -7,6 +9,7 @@
 
 - MongoDB Server running on localhost (With db name called: 'amazon_db' and collection name: 'seller_products')
 - Node.JS v18.16+
+- Most of the packages in the package.json
 
 ## How To Run
 
