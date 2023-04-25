@@ -18,6 +18,7 @@ const app = require('next')({ dev, dir: './fe' });
 const handle = app.getRequestHandler();
 const cors = require('cors');
 const views = require("./views/views");
+const db = require("./be/models");
 
 app
  .prepare()
@@ -89,23 +90,31 @@ app
       logger.error(`${basename(__filename)} global middleware error, error: ${err}`);
    return next();
   });
+
+
+  //MongoDB connection
+
+  try{
+
+    await db.mongoose.connect(db.url, {
+      useNewUrlParser: true,
+      useUnifiedTopology: true
+    });
+    
+    console.log("Connected to the database!");
+
+  }catch(err){
+    logger.error(err.stack);
+  }
+
+
+
   //start server
   let listener = server.listen(conf.PORT, err => {
    if (err) throw err;
    console.log(`${conf.SERVICE_NAME} ready on http://localhost:${conf.PORT}`, {});
   });
 
-  
-  // const io = require('socket.io')(listener);
-
-  // //Socket.IO initialize.
-  // ioInit(io);
-
-
- })
- .catch(ex => {
-  logger.error(ex.stack);
-  process.exit(1);
  });
 
 /*

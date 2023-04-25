@@ -9,8 +9,8 @@ module.exports = {
   NEXTJS_ASSET_PREFIX: '/public',
   
   /// MONGO
-  MONGODB_CONNECTION_STRING: "",
-  DB_NAME: 'myproj',
+  MONGODB_CONNECTION_STRING: "mongodb://127.0.0.1:27017/amazon_db",
+  DB_NAME: 'amazon_db',
 
   VERSION: packageJsonFile.version + '_' + '__BUILD_VERSION__',
   IS_DEV: true,
