@@ -1,0 +1,187 @@
+{
+	"info": {
+		"_postman_id": "aa63f819-173e-4d36-807f-fc0c03626d2c",
+		"name": "roundforest",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "seller-products - CREATE ONE",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n      \"ASIN\": \"test0001\",\r\n      \"Locale\": \"test0001\",\r\n      \"Seller_name\": \"chen\",\r\n      \"Availability\": true,\r\n      \"Price\": 500,\r\n      \"Product_name\": \"test\",\r\n      \"Product_link\": \"test\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:3001/api/v1/seller-products",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3001",
+					"path": [
+						"api",
+						"v1",
+						"seller-products"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "seller-products FIND ONE",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:3001/api/v1/seller-products?ASIN=test&Locale=test",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3001",
+					"path": [
+						"api",
+						"v1",
+						"seller-products"
+					],
+					"query": [
+						{
+							"key": "ASIN",
+							"value": "test"
+						},
+						{
+							"key": "Locale",
+							"value": "test"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "seller-products UPDATE ONE",
+			"request": {
+				"method": "PUT",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n      \"ASIN\": \"tes111t\",\r\n      \"Locale\": \"test\",\r\n      \"Seller_name\": \"chen\",\r\n      \"Availability\": true,\r\n      \"Price\": 500,\r\n      \"Product_name\": \"test\",\r\n      \"Product_link\": \"test\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:3001/api/v1/seller-products",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3001",
+					"path": [
+						"api",
+						"v1",
+						"seller-products"
+					],
+					"query": [
+						{
+							"key": "ASIN",
+							"value": "test",
+							"disabled": true
+						},
+						{
+							"key": "Locale",
+							"value": "test",
+							"disabled": true
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "seller-products DELETE MANY",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "[\r\n    {\r\n      \"ASIN\": \"test\",\r\n      \"Locale\": \"test\"\r\n    },\r\n    {\r\n      \"ASIN\": \"test1\",\r\n      \"Locale\": \"test1\"\r\n    },\r\n    {\r\n      \"ASIN\": \"test2\",\r\n      \"Locale\": \"test2\"\r\n    }\r\n]",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:3001/api/v1/seller-products",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3001",
+					"path": [
+						"api",
+						"v1",
+						"seller-products"
+					],
+					"query": [
+						{
+							"key": "ASIN",
+							"value": "test",
+							"disabled": true
+						},
+						{
+							"key": "Locale",
+							"value": "test",
+							"disabled": true
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "seller-products FIND MANY by seller_name",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:3001/api/v1/seller-products/get-all-by-seller-name?Seller_name=chen1",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3001",
+					"path": [
+						"api",
+						"v1",
+						"seller-products",
+						"get-all-by-seller-name"
+					],
+					"query": [
+						{
+							"key": "Seller_name",
+							"value": "chen1"
+						},
+						{
+							"key": "",
+							"value": "",
+							"disabled": true
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

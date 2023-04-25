@@ -10,6 +10,7 @@
 - MongoDB Server running on localhost (With db name called: 'amazon_db' and collection name: 'seller_products')
 - Node.JS v18.16+
 - Most of the packages in the package.json
+- Postman JSON file is provided with example for endpoints requests
 
 ## How To Run
 
