@@ -1,0 +1,11 @@
+node_modules/
+fe/analyze/
+fe/.next/
+fe/public/pwa
+fe/public/manifest.json
+.idea/
+package-lock.json
+combined.log
+console.log
+.idea
+.vscode

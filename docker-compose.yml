@@ -1,0 +1,12 @@
+version: "3.8"
+services:
+  web:
+    container_name: dogmasters.services.home
+    restart: always
+    mem_limit: 1G
+    build: .
+    ports:
+      - "3001:3001"
+  redis:
+    container_name: redis
+    image: "redis:alpine"

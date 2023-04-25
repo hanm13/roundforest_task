@@ -1,0 +1,45 @@
+error: uncaughtException, reason: Error: Cannot find module 'next/dist/pages/_error'
+Require stack:
+- D:\digital_git\isra_dog\node_modules\next\dist\build\entries.js
+- D:\digital_git\isra_dog\node_modules\next\dist\server\dev\hot-reloader.js
+- D:\digital_git\isra_dog\node_modules\next\dist\server\dev\next-dev-server.js
+- D:\digital_git\isra_dog\node_modules\next\dist\server\next.js
+- D:\digital_git\isra_dog\server.js {"timestamp":"2023-01-30T16:57:09.293Z"}
+error: uncaughtException, reason: ReferenceError: document is not defined {"timestamp":"2023-01-30T17:22:04.880Z"}
+error: uncaughtException, reason: ReferenceError: document is not defined {"timestamp":"2023-01-30T17:22:04.899Z"}
+error: uncaughtException, reason: TypeError: Cannot read property 'reducer' of undefined {"timestamp":"2023-02-02T12:00:35.787Z"}
+error: uncaughtException, reason: TypeError: Cannot read property 'reducer' of undefined {"timestamp":"2023-02-02T12:02:03.916Z"}
+error: uncaughtException, reason: TypeError: Cannot read property 'get' of undefined {"timestamp":"2023-02-02T12:03:21.912Z"}
+error: uncaughtException, reason: ReferenceError: LogoutPage is not defined {"timestamp":"2023-02-02T12:04:13.420Z"}
+error: uncaughtException, reason: Error: could not find react-redux context value; please ensure the component is wrapped in a <Provider> {"timestamp":"2023-02-02T12:13:48.476Z"}
+error: uncaughtException, reason: Error: could not find react-redux context value; please ensure the component is wrapped in a <Provider> {"timestamp":"2023-02-02T12:23:45.314Z"}
+error: uncaughtException, reason: Error: could not find react-redux context value; please ensure the component is wrapped in a <Provider> {"timestamp":"2023-02-02T12:23:56.336Z"}
+error: uncaughtException, reason: TypeError: Cannot read property 'getState' of undefined {"timestamp":"2023-02-02T13:27:43.027Z"}
+error: uncaughtException, reason: TypeError: (0 , react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV) is not a function {"timestamp":"2023-02-02T13:39:16.530Z"}
+error: Error: Could not find a production build in the 'D:\digital_git\isra_dog\fe\.next' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id
+    at NextNodeServer.getBuildId (D:\digital_git\isra_dog\node_modules\next\dist\server\next-server.js:172:23)
+    at new Server (D:\digital_git\isra_dog\node_modules\next\dist\server\base-server.js:58:29)
+    at new NextNodeServer (D:\digital_git\isra_dog\node_modules\next\dist\server\next-server.js:67:9)
+    at NextServer.createServer (D:\digital_git\isra_dog\node_modules\next\dist\server\next.js:143:16)
+    at async D:\digital_git\isra_dog\node_modules\next\dist\server\next.js:155:31
+    at async NextServer.prepare (D:\digital_git\isra_dog\node_modules\next\dist\server\next.js:130:24) {"timestamp":"2023-02-02T13:40:43.347Z"}
+error: uncaughtException, reason: Error: "MyDocument.getInitialProps()" should resolve to an object with a "html" prop set with a valid html string {"timestamp":"2023-02-02T13:44:08.240Z"}
+error: Error: Could not find a production build in the 'D:\digital_git\isra_dog\fe\.next' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id
+    at NextNodeServer.getBuildId (D:\digital_git\isra_dog\node_modules\next\dist\server\next-server.js:172:23)
+    at new Server (D:\digital_git\isra_dog\node_modules\next\dist\server\base-server.js:58:29)
+    at new NextNodeServer (D:\digital_git\isra_dog\node_modules\next\dist\server\next-server.js:67:9)
+    at NextServer.createServer (D:\digital_git\isra_dog\node_modules\next\dist\server\next.js:143:16)
+    at async D:\digital_git\isra_dog\node_modules\next\dist\server\next.js:155:31
+    at async NextServer.prepare (D:\digital_git\isra_dog\node_modules\next\dist\server\next.js:130:24) {"timestamp":"2023-02-02T14:07:55.414Z"}
+error: Error: Specified basePath /. basePath has to be either an empty string or a path prefix"
+    at assignDefaults (D:\digital_git\isra_dog\node_modules\next\dist\server\config.js:356:19)
+    at Object.loadConfig [as default] (D:\digital_git\isra_dog\node_modules\next\dist\server\config.js:111:32)
+    at async NextServer.prepare (D:\digital_git\isra_dog\node_modules\next\dist\server\next.js:130:24) {"timestamp":"2023-02-02T14:20:06.426Z"}
+error: Error: Specified basePath /. basePath has to be either an empty string or a path prefix"
+    at assignDefaults (D:\digital_git\isra_dog\node_modules\next\dist\server\config.js:356:19)
+    at Object.loadConfig [as default] (D:\digital_git\isra_dog\node_modules\next\dist\server\config.js:111:32)
+    at async NextServer.prepare (D:\digital_git\isra_dog\node_modules\next\dist\server\next.js:130:24) {"timestamp":"2023-02-02T14:25:13.779Z"}
+error: Error: Specified basePath /. basePath has to be either an empty string or a path prefix"
+    at assignDefaults (D:\digital_git\isra_dog\node_modules\next\dist\server\config.js:356:19)
+    at Object.loadConfig [as default] (D:\digital_git\isra_dog\node_modules\next\dist\server\config.js:111:32)
+    at async NextServer.prepare (D:\digital_git\isra_dog\node_modules\next\dist\server\next.js:130:24) {"timestamp":"2023-02-02T14:27:43.227Z"}
